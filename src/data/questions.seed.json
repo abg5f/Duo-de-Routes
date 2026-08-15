@@ -1,0 +1,5906 @@
+[
+  {
+    "id": "acr-01",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie SNCF ?",
+    "answer": "Société Nationale des Chemins de fer Français.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-02",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie RATP ?",
+    "answer": "Régie Autonome des Transports Parisiens.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-03",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie OTAN ?",
+    "answer": "Organisation du Traité de l'Atlantique Nord.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-04",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie ONU ?",
+    "answer": "Organisation des Nations Unies.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-05",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie UE ?",
+    "answer": "Union Européenne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-06",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie TVA ?",
+    "answer": "Taxe sur la Valeur Ajoutée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-07",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie PDG ?",
+    "answer": "Président-Directeur Général.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-08",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie VTT ?",
+    "answer": "Vélo Tout Terrain.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-09",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie SVP ?",
+    "answer": "S'il Vous Plaît.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-10",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie CV, comme dans « envoyer son CV » ?",
+    "answer": "Curriculum Vitae, une expression latine qui signifie « parcours de vie ».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-11",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie RADAR ?",
+    "answer": "RAdio Detection And Ranging, soit détection et télémétrie par radio.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-12",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie LASER ?",
+    "answer": "Light Amplification by Stimulated Emission of Radiation, soit amplification de lumière par émission stimulée de rayonnement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-13",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie SAMU ?",
+    "answer": "Service d'Aide Médicale Urgente.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-14",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie RIB ?",
+    "answer": "Relevé d'Identité Bancaire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-15",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie CDI, dans le monde du travail ?",
+    "answer": "Contrat à Durée Indéterminée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-16",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie CDD ?",
+    "answer": "Contrat à Durée Déterminée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-17",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie HLM ?",
+    "answer": "Habitation à Loyer Modéré.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-18",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie SMIC ?",
+    "answer": "Salaire Minimum Interprofessionnel de Croissance.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-19",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie RER ?",
+    "answer": "Réseau Express Régional.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-20",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie TGV ?",
+    "answer": "Train à Grande Vitesse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-21",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie NASA ?",
+    "answer": "National Aeronautics and Space Administration, l'agence spatiale américaine.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-22",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie UNESCO ?",
+    "answer": "United Nations Educational, Scientific and Cultural Organization, l'organisation des Nations unies pour l'éducation, la science et la culture.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-23",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie INSEE ?",
+    "answer": "Institut National de la Statistique et des Études Économiques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-24",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie CNRS ?",
+    "answer": "Centre National de la Recherche Scientifique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-25",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie GIGN ?",
+    "answer": "Groupe d'Intervention de la Gendarmerie Nationale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-26",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie SIDA ?",
+    "answer": "Syndrome d'Immunodéficience Acquise.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-27",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie OGM ?",
+    "answer": "Organisme Génétiquement Modifié.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-28",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie PACS ?",
+    "answer": "Pacte Civil de Solidarité.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-29",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie CROUS ?",
+    "answer": "Centre Régional des Œuvres Universitaires et Scolaires.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-30",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie FBI ?",
+    "answer": "Federal Bureau of Investigation, la police fédérale américaine.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-01",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Napoléon Bonaparte ?",
+    "answer": "Empereur des Français de 1804 à 1815, né en Corse en 1769.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-02",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui a peint la Joconde ?",
+    "answer": "Léonard de Vinci, peintre et inventeur italien de la Renaissance.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-03",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Jeanne d'Arc ?",
+    "answer": "Une jeune paysanne française qui a mené l'armée française pendant la guerre de Cent Ans, morte brûlée en 1431.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-04",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Louis XIV, le Roi-Soleil ?",
+    "answer": "Roi de France de 1643 à 1715, qui a fait construire le château de Versailles.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-05",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Charles de Gaulle ?",
+    "answer": "Général et homme d'État français, chef de la France libre puis président de la République de 1959 à 1969.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-06",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Marie Curie ?",
+    "answer": "Physicienne et chimiste, seule personne à avoir reçu deux prix Nobel dans deux sciences différentes, la physique et la chimie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-07",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Victor Hugo ?",
+    "answer": "Écrivain français du XIXe siècle, auteur des «Misérables» et de «Notre-Dame de Paris».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-08",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Albert Einstein ?",
+    "answer": "Physicien, auteur de la théorie de la relativité, prix Nobel de physique en 1921.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-09",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Christophe Colomb ?",
+    "answer": "Navigateur qui a atteint le continent américain en 1492 pour le compte de la couronne d'Espagne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-10",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Coco Chanel ?",
+    "answer": "Couturière française, fondatrice de la maison Chanel au début du XXe siècle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-11",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "En quelle année a eu lieu la prise de la Bastille ?",
+    "answer": "En 1789, le 14 juillet, événement qui marque le début de la Révolution française.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-12",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Vercingétorix ?",
+    "answer": "Chef gaulois vaincu par Jules César au siège d'Alésia, en 52 avant J.-C.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-13",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Molière ?",
+    "answer": "Auteur et acteur de théâtre français du XVIIe siècle, auteur du «Malade imaginaire» et du «Tartuffe».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-14",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Simone Veil ?",
+    "answer": "Femme politique française, rescapée de la Shoah, à l'origine de la loi légalisant l'avortement en 1975.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-15",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Louis Pasteur ?",
+    "answer": "Chimiste et biologiste français, à l'origine du vaccin contre la rage et de la pasteurisation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-16",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Édith Piaf ?",
+    "answer": "Chanteuse française, interprète notamment de «La Vie en rose» et «Non, je ne regrette rien».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-17",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Winston Churchill ?",
+    "answer": "Premier ministre du Royaume-Uni pendant la Seconde Guerre mondiale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-18",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Cléopâtre ?",
+    "answer": "Dernière reine d'Égypte de la dynastie ptolémaïque, morte en 30 avant J.-C.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-19",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Gustave Eiffel ?",
+    "answer": "Ingénieur français dont l'entreprise a construit la tour Eiffel pour l'Exposition universelle de 1889.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-20",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Martin Luther King ?",
+    "answer": "Pasteur et militant américain pour les droits civiques des Afro-Américains, assassiné en 1968.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-21",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Talleyrand ?",
+    "answer": "Diplomate et homme d'État français, ministre des Affaires étrangères sous plusieurs régimes successifs, de la Révolution à la Monarchie de Juillet.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-22",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Marco Polo ?",
+    "answer": "Marchand et explorateur vénitien du XIIIe siècle, connu pour son voyage en Asie et sa rencontre avec Kubilay Khan.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-23",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Sun Tzu ?",
+    "answer": "Général et stratège chinois de l'Antiquité, auteur présumé de «L'Art de la guerre».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-24",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Rosa Parks ?",
+    "answer": "Militante afro-américaine dont le refus de céder sa place dans un bus en 1955 a déclenché le boycott des bus de Montgomery.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-25",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Nicolas Copernic ?",
+    "answer": "Astronome polonais du XVIe siècle qui a proposé le modèle héliocentrique du système solaire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-26",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Ferdinand de Lesseps ?",
+    "answer": "Diplomate français à l'origine du percement du canal de Suez, inauguré en 1869.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-27",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Toussaint Louverture ?",
+    "answer": "Général et homme politique haïtien, figure majeure de la révolution haïtienne contre l'esclavage.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-28",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Ada Lovelace ?",
+    "answer": "Mathématicienne britannique du XIXe siècle, considérée comme l'auteure du premier programme informatique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-29",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Otto von Bismarck ?",
+    "answer": "Homme d'État prussien, artisan de l'unification de l'Allemagne, chancelier de l'Empire allemand à partir de 1871.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-30",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Hannibal Barca ?",
+    "answer": "Général carthaginois célèbre pour avoir traversé les Alpes avec des éléphants afin d'attaquer Rome, lors de la deuxième guerre punique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-01",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir le cœur sur la main» ?",
+    "answer": "Être généreux, prêt à donner et à aider les autres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-02",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «coûter les yeux de la tête» ?",
+    "answer": "Être très cher, coûter une somme excessive.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-03",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un chat dans la gorge» ?",
+    "answer": "Avoir la voix enrouée, être gêné pour parler ou chanter.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-04",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «tomber dans les pommes» ?",
+    "answer": "S'évanouir, perdre connaissance.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-05",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «poser un lapin à quelqu'un» ?",
+    "answer": "Ne pas venir à un rendez-vous fixé avec cette personne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-06",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir la main verte» ?",
+    "answer": "Être doué pour le jardinage, savoir faire pousser les plantes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-07",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «mettre la charrue avant les bœufs» ?",
+    "answer": "Faire les choses dans le mauvais ordre, agir précipitamment.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-08",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un poil dans la main» ?",
+    "answer": "Être très paresseux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-09",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «il pleut des cordes» ?",
+    "answer": "Il pleut très fort.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-10",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «casser les pieds à quelqu'un» ?",
+    "answer": "Ennuyer ou importuner quelqu'un.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-11",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «être aux anges» ?",
+    "answer": "Être extrêmement heureux, comme transporté de joie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-12",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «chercher midi à quatorze heures» ?",
+    "answer": "Compliquer une chose simple, chercher des difficultés là où il n'y en a pas.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-13",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "D'où vient l'expression «revenons à nos moutons» ?",
+    "answer": "Elle vient d'une pièce de théâtre médiévale, «La Farce de Maître Pathelin», où un juge ramène les parties à leur sujet, un procès concernant des moutons. Elle signifie revenir au sujet principal après une digression.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-14",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «être dans de beaux draps» ?",
+    "answer": "Être dans une situation difficile ou embarrassante.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-15",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir d'autres chats à fouetter» ?",
+    "answer": "Avoir des choses plus importantes à faire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-16",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «mettre la main à la pâte» ?",
+    "answer": "Participer activement à un travail, aider concrètement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-17",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "D'où vient l'expression «être sur la même longueur d'onde» ?",
+    "answer": "Du vocabulaire de la radio. Elle signifie se comprendre facilement, avoir la même façon de penser.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-18",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "D'où vient l'expression «avoir le vent en poupe» ?",
+    "answer": "Du vocabulaire maritime : un vent qui pousse le bateau par l'arrière le fait avancer plus vite. Elle signifie connaître le succès.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-19",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «mener quelqu'un en bateau» ?",
+    "answer": "Tromper quelqu'un, lui faire croire des choses fausses.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-20",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «raconter des salades» ?",
+    "answer": "Raconter des mensonges ou des histoires inventées.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-21",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «tirer à boulets rouges» ?",
+    "answer": "Du vocabulaire militaire : un boulet rouge était un boulet de canon chauffé au rouge, utilisé pour incendier fortifications ou navires ennemis. Elle signifie attaquer violemment quelqu'un.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-22",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «avoir pignon sur rue» ?",
+    "answer": "À l'origine, elle désignait une maison dont le pignon, le mur triangulaire du toit, donnait sur la rue, signe de prospérité. Elle signifie aujourd'hui être une entreprise bien établie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-23",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «brûler la chandelle par les deux bouts» ?",
+    "answer": "À l'époque où les chandelles étaient une source de lumière coûteuse, les allumer par les deux bouts les consumait deux fois plus vite. Elle signifie se dépenser sans compter.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-24",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «avoir maille à partir avec quelqu'un» ?",
+    "answer": "La maille était autrefois une pièce de monnaie de très faible valeur, difficile à partager équitablement, d'où l'idée de dispute. Elle signifie avoir un différend avec quelqu'un.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-25",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «être médusé» ?",
+    "answer": "De Méduse, figure de la mythologie grecque dont le regard transformait quiconque la fixait en statue de pierre. Elle signifie être frappé de stupeur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-26",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «filer à l'anglaise» ?",
+    "answer": "Partir discrètement, sans dire au revoir. Curiosité : les Anglais disent l'inverse, «to take French leave», chaque pays attribuant cette habitude à l'autre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-27",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «avoir carte blanche» ?",
+    "answer": "Du vocabulaire militaire et diplomatique : signer une feuille blanche donnait à quelqu'un le pouvoir d'y écrire les conditions qu'il voulait. Elle signifie avoir une totale liberté d'action.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-28",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «être dans le collimateur» ?",
+    "answer": "Le collimateur est l'instrument de visée utilisé sur les armes à feu et en aviation. Elle signifie être surveillé de près, être la cible de critiques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-29",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «battre son plein» ?",
+    "answer": "Être à son point culminant, à son maximum d'intensité, comme une fête ou une manifestation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-30",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie avoir «un succès bœuf» ?",
+    "answer": "Remporter un immense succès, «bœuf» étant utilisé ici dans son sens familier d'énorme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-01",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 75 ?",
+    "answer": "Paris.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-02",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 13, celui de Marseille ?",
+    "answer": "Les Bouches-du-Rhône.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-03",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 69, celui de Lyon ?",
+    "answer": "Le Rhône.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-04",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 33, celui de Bordeaux ?",
+    "answer": "La Gironde.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-05",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 59, celui de Lille ?",
+    "answer": "Le Nord.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-06",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 06, celui de Nice ?",
+    "answer": "Les Alpes-Maritimes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-07",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 44, celui de Nantes ?",
+    "answer": "La Loire-Atlantique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-08",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 31, celui de Toulouse ?",
+    "answer": "La Haute-Garonne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-09",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 67, celui de Strasbourg ?",
+    "answer": "Le Bas-Rhin.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-10",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 34, celui de Montpellier ?",
+    "answer": "L'Hérault.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-11",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 76, celui de Rouen ?",
+    "answer": "La Seine-Maritime.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-12",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 35, celui de Rennes ?",
+    "answer": "L'Ille-et-Vilaine.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-13",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 21, celui de Dijon ?",
+    "answer": "La Côte-d'Or.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-14",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 63, celui de Clermont-Ferrand ?",
+    "answer": "Le Puy-de-Dôme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-15",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 29, en Bretagne ?",
+    "answer": "Le Finistère.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-16",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 38, celui de Grenoble ?",
+    "answer": "L'Isère.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-17",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 14, celui de Caen ?",
+    "answer": "Le Calvados.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-18",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 25, celui de Besançon ?",
+    "answer": "Le Doubs.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-19",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 51, celui de Reims ?",
+    "answer": "La Marne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-20",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 83, celui de Toulon ?",
+    "answer": "Le Var.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-21",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 2A ?",
+    "answer": "La Corse-du-Sud.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-22",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 2B ?",
+    "answer": "La Haute-Corse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-23",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel est le plus petit département de France métropolitaine, portant le numéro 90 ?",
+    "answer": "Le Territoire de Belfort.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-24",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 48, le moins peuplé de France métropolitaine ?",
+    "answer": "La Lozère.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-25",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département d'outre-mer porte le numéro 971 ?",
+    "answer": "La Guadeloupe.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-26",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département d'outre-mer porte le numéro 972 ?",
+    "answer": "La Martinique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-27",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département d'outre-mer porte le numéro 973 ?",
+    "answer": "La Guyane.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-28",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département d'outre-mer porte le numéro 974 ?",
+    "answer": "La Réunion.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-29",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département d'outre-mer porte le numéro 976 ?",
+    "answer": "Mayotte.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-30",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 55, dans l'est de la France ?",
+    "answer": "La Meuse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-01",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Combien de pattes a une araignée ?",
+    "answer": "Huit pattes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-02",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "De quelle couleur était le cheval blanc d'Henri IV ?",
+    "answer": "Blanc, comme l'indique la question. C'est une question piège classique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-03",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Combien font deux et deux ?",
+    "answer": "Quatre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-04",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel animal appelle-t-on couramment le roi de la jungle ?",
+    "answer": "Le lion, même s'il vit en réalité surtout dans la savane et non dans la jungle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-05",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Combien de jours compte une semaine ?",
+    "answer": "Sept jours.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-06",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "answer": "La peau.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-07",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Combien de côtés a un panneau stop ?",
+    "answer": "Huit côtés : c'est un octogone.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-08",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le plus petit pays du monde ?",
+    "answer": "Le Vatican, avec environ 0,44 km².",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-09",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Combien de dents a un adulte humain, en général ?",
+    "answer": "Trente-deux, en comptant les dents de sagesse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-10",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel fruit Isaac Newton aurait-il vu tomber, selon la légende, avant de penser à la gravité ?",
+    "answer": "Une pomme. Cette anecdote traditionnelle est célèbre, même si son exactitude historique reste débattue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-11",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est l'animal terrestre le plus rapide au monde ?",
+    "answer": "Le guépard, capable de dépasser 100 km/h sur de courtes distances.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-12",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "La girafe dort-elle beaucoup ?",
+    "answer": "Non, très peu : souvent moins de deux heures par jour, ce qui en fait l'un des mammifères qui dorment le moins.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-13",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le seul mammifère capable de voler ?",
+    "answer": "La chauve-souris.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-14",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quelle est la capitale de l'Australie ?",
+    "answer": "Canberra, et non Sydney, souvent citée par erreur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-15",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Combien d'os compte le corps humain adulte ?",
+    "answer": "206 os.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-16",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le plus long fleuve de France ?",
+    "answer": "La Loire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-17",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le point culminant de la France métropolitaine ?",
+    "answer": "Le mont Blanc, avec environ 4 809 mètres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-18",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Le sang est-il bleu à l'intérieur du corps humain ?",
+    "answer": "Non, il est rouge foncé même sans contact avec l'air, contrairement à une idée reçue très répandue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-19",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel pays a la forme d'une botte sur la carte d'Europe ?",
+    "answer": "L'Italie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-20",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Combien de temps met la lumière du Soleil pour atteindre la Terre ?",
+    "answer": "Environ 8 minutes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-21",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quelle est la durée de gestation d'un éléphant ?",
+    "answer": "Environ 22 mois, la plus longue parmi les mammifères terrestres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-22",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Comment appelle-t-on la peur des amas de petits trous rapprochés ?",
+    "answer": "La trypophobie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-23",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Combien de cœurs possède une pieuvre ?",
+    "answer": "Trois cœurs.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-24",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est le seul pays au monde à avoir un drapeau non rectangulaire ?",
+    "answer": "Le Népal, dont le drapeau est formé de deux triangles empilés.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-25",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "L'escargot est-il rapide ?",
+    "answer": "Non, il est extrêmement lent : de l'ordre de quelques mètres seulement par heure.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-26",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel grand mammifère terrestre est réputé incapable de sauter ?",
+    "answer": "L'éléphant.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-27",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Combien de temps un cachalot peut-il rester en apnée lors d'une plongée profonde ?",
+    "answer": "Plus d'une heure, ce qui en fait l'un des mammifères marins à l'apnée la plus longue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-28",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Le miel se périme-t-il ?",
+    "answer": "Quasiment jamais s'il est bien conservé, grâce à sa très faible teneur en eau.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-29",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Combien de mots compte, environ, le vocabulaire actif d'un adulte francophone ?",
+    "answer": "C'est difficile à chiffrer précisément, mais on l'estime généralement entre 5 000 et 10 000 mots couramment utilisés.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-30",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est le plus grand animal ayant jamais existé sur Terre ?",
+    "answer": "La baleine bleue, qui peut mesurer jusqu'à environ 30 mètres de long, plus que n'importe quel dinosaure connu.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-31",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie APL ?",
+    "answer": "Aide Personnalisée au Logement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-32",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie CAF ?",
+    "answer": "Caisse d'Allocations Familiales.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-33",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie RSA ?",
+    "answer": "Revenu de Solidarité Active.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-34",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie URSSAF ?",
+    "answer": "Union de Recouvrement des cotisations de Sécurité Sociale et d'Allocations Familiales.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-35",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie EHPAD ?",
+    "answer": "Établissement d'Hébergement pour Personnes Âgées Dépendantes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-36",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie IUT ?",
+    "answer": "Institut Universitaire de Technologie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-37",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie BTS, le diplôme ?",
+    "answer": "Brevet de Technicien Supérieur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-38",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie CAP, le diplôme ?",
+    "answer": "Certificat d'Aptitude Professionnelle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-39",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie IVG ?",
+    "answer": "Interruption Volontaire de Grossesse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-40",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie AVC ?",
+    "answer": "Accident Vasculaire Cérébral.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-41",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie IRM ?",
+    "answer": "Imagerie par Résonance Magnétique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-42",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie ADN ?",
+    "answer": "Acide DésoxyriboNucléique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-43",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie ARN ?",
+    "answer": "Acide RiboNucléique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-44",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie OVNI ?",
+    "answer": "Objet Volant Non Identifié.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-45",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie PIB ?",
+    "answer": "Produit Intérieur Brut.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-46",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie FMI ?",
+    "answer": "Fonds Monétaire International.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-47",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie OMS ?",
+    "answer": "Organisation Mondiale de la Santé.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-48",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie OCDE ?",
+    "answer": "Organisation de Coopération et de Développement Économiques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-49",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie GPS ?",
+    "answer": "Global Positioning System, le système de positionnement par satellite.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-50",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie USB ?",
+    "answer": "Universal Serial Bus.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-51",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie officiellement Wi-Fi ?",
+    "answer": "Rien officiellement : c'est un nom commercial inventé par une agence de communication, souvent confondu à tort avec l'acronyme de « Wireless Fidelity ».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-52",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie PDF ?",
+    "answer": "Portable Document Format.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-53",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie HTML ?",
+    "answer": "HyperText Markup Language.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-54",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie URL ?",
+    "answer": "Uniform Resource Locator.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-55",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie TTC ?",
+    "answer": "Toutes Taxes Comprises.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-56",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie HT, sur un prix ?",
+    "answer": "Hors Taxes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-57",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie DRH ?",
+    "answer": "Directeur des Ressources Humaines.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-58",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie SARL ?",
+    "answer": "Société à Responsabilité Limitée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-59",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie SA, pour une entreprise ?",
+    "answer": "Société Anonyme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-60",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie SAS, pour une entreprise ?",
+    "answer": "Société par Actions Simplifiée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-61",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie TPE, le petit boîtier chez les commerçants ?",
+    "answer": "Terminal de Paiement Électronique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-62",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie PME ?",
+    "answer": "Petite et Moyenne Entreprise.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-63",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie QI ?",
+    "answer": "Quotient Intellectuel.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-64",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie ONG ?",
+    "answer": "Organisation Non Gouvernementale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-65",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie UNICEF ?",
+    "answer": "Le Fonds des Nations unies pour l'enfance.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-66",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie OMC ?",
+    "answer": "Organisation Mondiale du Commerce.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-67",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie CIO ?",
+    "answer": "Comité International Olympique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-68",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie FIFA ?",
+    "answer": "Fédération Internationale de Football Association.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-69",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie UEFA ?",
+    "answer": "Union des associations européennes de football.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-70",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie NBA ?",
+    "answer": "National Basketball Association.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-71",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie JO ?",
+    "answer": "Jeux Olympiques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-72",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie ADSL ?",
+    "answer": "Asymmetric Digital Subscriber Line.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-73",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie TNT, la norme de télévision ?",
+    "answer": "Télévision Numérique Terrestre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-74",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie GIF ?",
+    "answer": "Graphics Interchange Format.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-75",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie JPEG ?",
+    "answer": "Joint Photographic Experts Group.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-76",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie WWW ?",
+    "answer": "World Wide Web.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-77",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie ONF ?",
+    "answer": "Office National des Forêts.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-78",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie EDF ?",
+    "answer": "Électricité de France.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-79",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie SPA ?",
+    "answer": "Société Protectrice des Animaux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-80",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie WWF ?",
+    "answer": "World Wildlife Fund.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-81",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie IA ?",
+    "answer": "Intelligence Artificielle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-82",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie VO, au cinéma ?",
+    "answer": "Version Originale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-83",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie VF, au cinéma ?",
+    "answer": "Version Française.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-84",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie BD ?",
+    "answer": "Bande Dessinée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-85",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie NDLR ?",
+    "answer": "Note De La Rédaction.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-86",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie PS, à la fin d'une lettre ?",
+    "answer": "Post-Scriptum.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-87",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie FAQ ?",
+    "answer": "Foire Aux Questions.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-88",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie PJ, dans un email ?",
+    "answer": "Pièce Jointe.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-89",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie RDV ?",
+    "answer": "Rendez-Vous.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-90",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie STP ?",
+    "answer": "S'il Te Plaît.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-91",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie MDR ?",
+    "answer": "Mort De Rire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-92",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie CGT, le syndicat ?",
+    "answer": "Confédération Générale du Travail.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-93",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie CFDT, le syndicat ?",
+    "answer": "Confédération Française Démocratique du Travail.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-94",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie INA ?",
+    "answer": "Institut National de l'Audiovisuel.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-95",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie BNF ?",
+    "answer": "Bibliothèque Nationale de France.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-96",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie CHU ?",
+    "answer": "Centre Hospitalier Universitaire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-97",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie IGN, l'institut des cartes ?",
+    "answer": "Institut national de l'information Géographique et forestière.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-98",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie RN, sur les panneaux routiers ?",
+    "answer": "Route Nationale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-99",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie GR, pour un sentier de randonnée ?",
+    "answer": "Sentier de Grande Randonnée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-100",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie TER ?",
+    "answer": "Train Express Régional.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-101",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie VAE, le vélo ?",
+    "answer": "Vélo à Assistance Électrique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-102",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie GDF, l'ancien nom de l'entreprise gazière française ?",
+    "answer": "Gaz de France.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-103",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie LOL ?",
+    "answer": "Laughing Out Loud.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-104",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie RSVP, sur un carton d'invitation ?",
+    "answer": "Répondez S'il Vous Plaît, une formule française passée telle quelle dans plusieurs langues.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-105",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie ASAP ?",
+    "answer": "As Soon As Possible, soit dès que possible.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-106",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie CQFD ?",
+    "answer": "Ce Qu'il Fallait Démontrer, formule utilisée pour conclure une démonstration.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-107",
+    "theme": "acronymes",
+    "difficulty": "difficile",
+    "question": "Que signifie TSVP ?",
+    "answer": "Tournez S'il Vous Plaît.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-108",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie QG ?",
+    "answer": "Quartier Général.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-109",
+    "theme": "acronymes",
+    "difficulty": "facile",
+    "question": "Que signifie VIP ?",
+    "answer": "Very Important Person.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "acr-110",
+    "theme": "acronymes",
+    "difficulty": "moyen",
+    "question": "Que signifie ETA, l'heure annoncée pour un trajet ?",
+    "answer": "Estimated Time of Arrival, l'heure d'arrivée estimée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-31",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Aristote ?",
+    "answer": "Philosophe grec de l'Antiquité, élève de Platon et précepteur d'Alexandre le Grand.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-32",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Platon ?",
+    "answer": "Philosophe grec de l'Antiquité, élève de Socrate, fondateur de l'Académie d'Athènes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-33",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Socrate ?",
+    "answer": "Philosophe grec de l'Antiquité, considéré comme l'un des fondateurs de la philosophie occidentale, condamné à boire la ciguë.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-34",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Alexandre le Grand ?",
+    "answer": "Roi de Macédoine ayant conquis un immense empire s'étendant jusqu'en Inde, au IVe siècle avant J.-C.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-35",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Jules César ?",
+    "answer": "Général et homme d'État romain, artisan de la conquête de la Gaule, assassiné en 44 avant J.-C.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-36",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Charlemagne ?",
+    "answer": "Roi des Francs couronné empereur d'Occident en l'an 800.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-37",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Michel-Ange ?",
+    "answer": "Sculpteur, peintre et architecte italien de la Renaissance, auteur du plafond de la chapelle Sixtine et de la statue du David.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-38",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Raphaël, le peintre de la Renaissance ?",
+    "answer": "Peintre et architecte italien, l'un des plus grands maîtres de la Renaissance avec Léonard de Vinci et Michel-Ange.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-39",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Galilée ?",
+    "answer": "Astronome et physicien italien, défenseur du modèle héliocentrique, condamné par l'Église en 1633.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-40",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Isaac Newton ?",
+    "answer": "Physicien et mathématicien anglais, auteur des lois de la gravitation universelle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-41",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Charles Darwin ?",
+    "answer": "Naturaliste britannique, auteur de la théorie de l'évolution par sélection naturelle exposée dans «L'Origine des espèces».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-42",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Gandhi ?",
+    "answer": "Guide spirituel et politique indien, figure majeure de l'indépendance de l'Inde par la résistance non violente.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-43",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Nelson Mandela ?",
+    "answer": "Homme d'État sud-africain, opposant à l'apartheid emprisonné 27 ans, puis premier président noir d'Afrique du Sud élu démocratiquement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-44",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Abraham Lincoln ?",
+    "answer": "Président des États-Unis pendant la guerre de Sécession, à l'origine de l'abolition de l'esclavage, assassiné en 1865.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-45",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était George Washington ?",
+    "answer": "Premier président des États-Unis, de 1789 à 1797.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-46",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Lénine ?",
+    "answer": "Homme d'État russe, dirigeant de la révolution bolchevique de 1917.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-47",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Staline ?",
+    "answer": "Dirigeant soviétique de la fin des années 1920 jusqu'à sa mort en 1953.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-48",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Adolf Hitler ?",
+    "answer": "Dictateur allemand, chef du régime nazi de 1933 à 1945, responsable de la Seconde Guerre mondiale et de la Shoah.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-49",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Franklin D. Roosevelt ?",
+    "answer": "Président des États-Unis pendant la Grande Dépression et une grande partie de la Seconde Guerre mondiale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-50",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Sigmund Freud ?",
+    "answer": "Médecin autrichien, fondateur de la psychanalyse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-51",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Karl Marx ?",
+    "answer": "Philosophe et économiste allemand, auteur du «Capital» et co-auteur du «Manifeste du Parti communiste».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-52",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Beethoven ?",
+    "answer": "Compositeur allemand, l'un des plus grands de l'histoire de la musique classique, devenu sourd à la fin de sa vie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-53",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Mozart ?",
+    "answer": "Compositeur autrichien du XVIIIe siècle, considéré comme un enfant prodige de la musique classique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-54",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Jean-Sébastien Bach ?",
+    "answer": "Compositeur et organiste allemand du baroque, l'une des figures majeures de la musique occidentale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-55",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était William Shakespeare ?",
+    "answer": "Dramaturge et poète anglais, auteur de «Roméo et Juliette» et «Hamlet».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-56",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Voltaire ?",
+    "answer": "Écrivain et philosophe français des Lumières, auteur de «Candide».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-57",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Jean-Jacques Rousseau ?",
+    "answer": "Écrivain et philosophe genevois des Lumières, auteur du «Contrat social».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-58",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Émile Zola ?",
+    "answer": "Écrivain français, chef de file du naturalisme, auteur de «Germinal» et défenseur d'Alfred Dreyfus dans «J'accuse…!».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-59",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Alfred Dreyfus ?",
+    "answer": "Officier français d'origine juive, faussement accusé et condamné pour espionnage en 1894, réhabilité en 1906.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-60",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Antoine de Saint-Exupéry ?",
+    "answer": "Écrivain et aviateur français, auteur du «Petit Prince», disparu en vol en 1944.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-61",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Ernest Hemingway ?",
+    "answer": "Écrivain américain, prix Nobel de littérature en 1954.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-62",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Pablo Picasso ?",
+    "answer": "Peintre et sculpteur espagnol, cofondateur du cubisme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-63",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Claude Monet ?",
+    "answer": "Peintre français, figure fondatrice du mouvement impressionniste.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-64",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Vincent van Gogh ?",
+    "answer": "Peintre néerlandais post-impressionniste, auteur de «La Nuit étoilée», mort en 1890.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-65",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Auguste Rodin ?",
+    "answer": "Sculpteur français, auteur du «Penseur» et des «Bourgeois de Calais».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-66",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Louis Braille ?",
+    "answer": "Inventeur français, aveugle dès l'enfance, créateur de l'alphabet en relief qui porte son nom.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-67",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui étaient les frères Lumière ?",
+    "answer": "Auguste et Louis Lumière, inventeurs français du cinématographe, à l'origine des premières projections de cinéma en 1895.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-68",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Alexander Fleming ?",
+    "answer": "Bactériologiste écossais, découvreur de la pénicilline en 1928.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-69",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui étaient les frères Wright ?",
+    "answer": "Wilbur et Orville Wright, deux Américains considérés comme les inventeurs du premier avion motorisé, en 1903.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-70",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Thomas Edison ?",
+    "answer": "Inventeur et industriel américain, notamment associé à l'invention de l'ampoule électrique à incandescence commercialisable.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-71",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Nikola Tesla ?",
+    "answer": "Ingénieur et inventeur serbo-américain, pionnier de l'électricité en courant alternatif.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-72",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Youri Gagarine ?",
+    "answer": "Cosmonaute soviétique, premier homme à voyager dans l'espace, en 1961.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-73",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Neil Armstrong ?",
+    "answer": "Astronaute américain, premier homme à marcher sur la Lune, en 1969.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-74",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était le roi Louis XVI ?",
+    "answer": "Roi de France guillotiné en 1793 pendant la Révolution française.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-75",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Marie-Antoinette ?",
+    "answer": "Reine de France, épouse de Louis XVI, guillotinée en 1793.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-76",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Robespierre ?",
+    "answer": "Homme politique français, figure centrale de la Terreur pendant la Révolution française, guillotiné en 1794.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-77",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Clovis ?",
+    "answer": "Roi des Francs considéré comme le fondateur du royaume de France, converti au christianisme vers 496.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-78",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Aliénor d'Aquitaine ?",
+    "answer": "Reine de France puis reine d'Angleterre au XIIe siècle, l'une des femmes les plus puissantes du Moyen Âge.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-79",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Guillaume le Conquérant ?",
+    "answer": "Duc de Normandie devenu roi d'Angleterre après sa victoire à la bataille de Hastings en 1066.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-80",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Attila ?",
+    "answer": "Chef des Huns au Ve siècle, surnommé «le fléau de Dieu», qui a envahi une grande partie de l'Europe.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-81",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Confucius ?",
+    "answer": "Philosophe chinois de l'Antiquité, dont la pensée a profondément influencé la civilisation chinoise.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-82",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Bouddha ?",
+    "answer": "Sage indien, de son vrai nom Siddhartha Gautama, fondateur du bouddhisme, ayant vécu vers le Ve siècle avant J.-C.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-83",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Vasco de Gama ?",
+    "answer": "Navigateur portugais, premier Européen à atteindre l'Inde par voie maritime, en 1498.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-84",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Fernand de Magellan ?",
+    "answer": "Navigateur portugais dont l'expédition a réalisé le premier tour du monde par mer, achevé en 1522.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-85",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était James Cook ?",
+    "answer": "Explorateur britannique du XVIIIe siècle, célèbre pour ses voyages d'exploration dans le Pacifique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-86",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Amelia Earhart ?",
+    "answer": "Aviatrice américaine, première femme à traverser l'Atlantique en avion en solitaire, disparue en 1937 lors d'une tentative de tour du monde.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-87",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était le baron Haussmann ?",
+    "answer": "Préfet français à qui l'on doit les grands travaux de modernisation de Paris sous le Second Empire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-88",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Victor Schœlcher ?",
+    "answer": "Homme politique français, principal artisan du décret d'abolition de l'esclavage dans les colonies françaises en 1848.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-89",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Olympe de Gouges ?",
+    "answer": "Femme de lettres française, autrice de la «Déclaration des droits de la femme et de la citoyenne» en 1791, guillotinée en 1793.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-90",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Louis Blériot ?",
+    "answer": "Aviateur français, premier à avoir traversé la Manche en avion, en 1909.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-91",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Jean Moulin ?",
+    "answer": "Résistant français, figure majeure de la Résistance pendant la Seconde Guerre mondiale, mort en 1943.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-92",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était le maréchal Pétain ?",
+    "answer": "Militaire et homme d'État français, chef du régime de Vichy pendant l'Occupation, condamné après la guerre pour collaboration.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-93",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Georges Clemenceau ?",
+    "answer": "Homme d'État français, président du Conseil pendant la Première Guerre mondiale, surnommé «le Tigre».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-94",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Léon Blum ?",
+    "answer": "Homme politique français, chef du gouvernement du Front populaire en 1936.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-95",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était François Mitterrand ?",
+    "answer": "Président de la République française de 1981 à 1995.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-96",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Valéry Giscard d'Estaing ?",
+    "answer": "Président de la République française de 1974 à 1981.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-97",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Georges Pompidou ?",
+    "answer": "Président de la République française de 1969 à 1974.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-98",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était le pape Jean-Paul II ?",
+    "answer": "Pape de 1978 à 2005, l'un des pontificats les plus longs de l'histoire de l'Église catholique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-99",
+    "theme": "personnalites",
+    "difficulty": "facile",
+    "question": "Qui était Elizabeth II ?",
+    "answer": "Reine du Royaume-Uni de 1952 à 2022, l'un des règnes les plus longs de l'histoire britannique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-100",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Henri IV, roi de France ?",
+    "answer": "Roi de France de 1589 à 1610, à l'origine de l'édit de Nantes en 1598, assassiné par Ravaillac.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-101",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était François Ier ?",
+    "answer": "Roi de France de 1515 à 1547, grand mécène de la Renaissance, notamment protecteur de Léonard de Vinci.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-102",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Richelieu ?",
+    "answer": "Cardinal et principal ministre de Louis XIII, fondateur de l'Académie française en 1635.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-103",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Mazarin ?",
+    "answer": "Cardinal et principal ministre de la régence d'Anne d'Autriche puis du jeune Louis XIV.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-104",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Colbert ?",
+    "answer": "Ministre de Louis XIV, à l'origine d'une politique économique connue sous le nom de colbertisme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-105",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était le maréchal Foch ?",
+    "answer": "Général français, commandant en chef des forces alliées à la fin de la Première Guerre mondiale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-106",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Blaise Pascal ?",
+    "answer": "Mathématicien, physicien et philosophe français du XVIIe siècle, inventeur d'une des premières machines à calculer.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-107",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était René Descartes ?",
+    "answer": "Philosophe et mathématicien français, auteur du «Discours de la méthode» et de la formule «Je pense, donc je suis».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-108",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Antoine Lavoisier ?",
+    "answer": "Chimiste français, considéré comme le père de la chimie moderne, guillotiné en 1794.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-109",
+    "theme": "personnalites",
+    "difficulty": "difficile",
+    "question": "Qui était Sophie Germain ?",
+    "answer": "Mathématicienne française du XVIIIe-XIXe siècle, connue pour ses travaux en théorie des nombres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "per-110",
+    "theme": "personnalites",
+    "difficulty": "moyen",
+    "question": "Qui était Alfred Nobel ?",
+    "answer": "Chimiste suédois, inventeur de la dynamite, dont la fortune finance depuis 1901 les prix Nobel.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-31",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un coup de foudre» ?",
+    "answer": "Tomber immédiatement et intensément amoureux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-32",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «être sur des charbons ardents» ?",
+    "answer": "Être très impatient ou anxieux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-33",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir le trac» ?",
+    "answer": "Être très nerveux avant de se produire en public.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-34",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «en faire tout un fromage» ?",
+    "answer": "Exagérer l'importance d'un problème mineur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-35",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir la tête dans les nuages» ?",
+    "answer": "Être distrait, rêveur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-36",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «mettre son grain de sel» ?",
+    "answer": "Donner son avis sans qu'on le lui demande.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-37",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «être fauché comme les blés» ?",
+    "answer": "Ne plus avoir d'argent du tout.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-38",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir les yeux plus gros que le ventre» ?",
+    "answer": "Se servir plus qu'on ne peut manger, ou vouloir plus qu'on ne peut réellement faire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-39",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «donner sa langue au chat» ?",
+    "answer": "Renoncer à deviner et demander la réponse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-40",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «être haut comme trois pommes» ?",
+    "answer": "Être très petit, en parlant d'un enfant.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-41",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «faire la sourde oreille» ?",
+    "answer": "Faire semblant de ne pas entendre, ignorer volontairement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-42",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir le bras long» ?",
+    "answer": "Avoir de l'influence, des relations utiles.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-43",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «mettre les pieds dans le plat» ?",
+    "answer": "Aborder maladroitement un sujet délicat.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-44",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un cœur d'artichaut» ?",
+    "answer": "Tomber facilement et souvent amoureux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-45",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «jeter l'éponge» ?",
+    "answer": "Abandonner, renoncer à continuer un combat ou un effort.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-46",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «être sur la paille» ?",
+    "answer": "Être très pauvre, ruiné.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-47",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir du pain sur la planche» ?",
+    "answer": "Avoir beaucoup de travail à faire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-48",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «passer une nuit blanche» ?",
+    "answer": "Passer une nuit entière sans dormir.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-49",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir la puce à l'oreille» ?",
+    "answer": "Être averti, se douter de quelque chose.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-50",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «tourner autour du pot» ?",
+    "answer": "Hésiter à aborder directement un sujet.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-51",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un succès fou» ?",
+    "answer": "Remporter un immense succès.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-52",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «être une bonne poire» ?",
+    "answer": "Être trop naïf, se faire facilement duper.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-53",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir la banane» ?",
+    "answer": "Sourire largement, être de bonne humeur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-54",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «faire d'une pierre deux coups» ?",
+    "answer": "Réussir deux choses en une seule action.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-55",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «prendre ses jambes à son cou» ?",
+    "answer": "S'enfuir en courant très vite.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-56",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir le cafard» ?",
+    "answer": "Être triste, déprimé.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-57",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «en avoir marre» ?",
+    "answer": "Être excédé, ne plus supporter une situation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-58",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «être dans le pétrin» ?",
+    "answer": "Être dans une situation embarrassante ou difficile.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-59",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir un mal de chien» ?",
+    "answer": "Avoir beaucoup de difficulté à faire quelque chose.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-60",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «faire chou blanc» ?",
+    "answer": "Échouer complètement dans une tentative.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-61",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «en dire des vertes et des pas mûres» ?",
+    "answer": "Tenir des propos choquants ou scandaleux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-62",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «mettre de l'eau dans son vin» ?",
+    "answer": "Modérer ses exigences, faire des concessions.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-63",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir des fourmis dans les jambes» ?",
+    "answer": "Ressentir un picotement dans les jambes, ou avoir envie de bouger.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-64",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «prendre le taureau par les cornes» ?",
+    "answer": "Affronter directement une difficulté.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-65",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «ne pas être dans son assiette» ?",
+    "answer": "Ne pas se sentir bien, ne pas être en forme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-66",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un froid de canard» ?",
+    "answer": "Faire un temps très froid.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-67",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir un appétit d'oiseau» ?",
+    "answer": "Manger très peu.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-68",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «mettre du beurre dans les épinards» ?",
+    "answer": "Améliorer une situation financière modeste.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-69",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir le bourdon» ?",
+    "answer": "Être triste, avoir le cafard.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-70",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «vendre la mèche» ?",
+    "answer": "Révéler un secret par imprudence.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-71",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «être dans les choux» ?",
+    "answer": "Être en échec, ne pas réussir, notamment finir dernier dans une course.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-72",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un verre dans le nez» ?",
+    "answer": "Être un peu ivre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-73",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir la dalle» ?",
+    "answer": "Avoir très faim, familièrement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-74",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «se mettre le doigt dans l'œil» ?",
+    "answer": "Se tromper complètement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-75",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir deux mains gauches» ?",
+    "answer": "Être maladroit.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-76",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «ne pas y aller de main morte» ?",
+    "answer": "Agir ou parler avec une grande brutalité, sans ménagement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-77",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir un mot sur le bout de la langue» ?",
+    "answer": "Être sur le point de se souvenir d'un mot sans y arriver.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-78",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «tenir le haut du pavé» ?",
+    "answer": "Occuper une position sociale dominante.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-79",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «être au four et au moulin» ?",
+    "answer": "Devoir s'occuper de plusieurs tâches à la fois.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-80",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir la frite» ?",
+    "answer": "Être en pleine forme, familièrement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-81",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «faire la grasse matinée» ?",
+    "answer": "Se lever tard, profiter longuement du lit le matin.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-82",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «à la Saint-Glinglin» ?",
+    "answer": "Saint Glinglin est un saint imaginaire, qui n'existe dans aucun calendrier catholique. L'expression signifie donc «jamais», ou à une date qui n'arrivera pas.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-83",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «cousu de fil blanc» ?",
+    "answer": "À l'origine, un vêtement cousu avec du fil blanc sur un tissu foncé laissait voir les coutures. Elle signifie une ruse ou un mensonge trop visible pour tromper qui que ce soit.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-84",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «tirer les marrons du feu» ?",
+    "answer": "D'une fable de La Fontaine où un singe pousse un chat à retirer des marrons brûlants du feu pour les manger, le chat se brûlant les pattes pour le seul profit du singe. Elle signifie profiter du travail ou du risque pris par un autre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-85",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «être Gros-Jean comme devant» ?",
+    "answer": "Du titre d'une fable de La Fontaine, «La Laitière et le Pot au lait», où le personnage de Gros-Jean se retrouve sans rien après avoir tout perdu. Elle signifie se retrouver dans la même situation qu'avant, après avoir espéré mieux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-86",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "D'où vient l'expression «mettre la clé sous la porte» ?",
+    "answer": "De l'image d'un commerçant ou d'un locataire qui quitte définitivement les lieux en glissant sa clé sous la porte. Elle signifie fermer définitivement un commerce ou quitter un logement brusquement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-87",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "D'où vient l'expression «un coup d'épée dans l'eau» ?",
+    "answer": "De l'image d'un coup d'épée donné dans l'eau, qui ne laisse aucune trace et ne blesse personne. Elle signifie une action qui n'a aucun effet.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-88",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «sabler le champagne» ?",
+    "answer": "«Sabler» signifiait autrefois boire d'un trait, cul sec, un verre d'alcool. Elle signifie fêter un événement en buvant du champagne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-89",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "D'où vient l'expression «avoir un œil au beurre noir» ?",
+    "answer": "Du beurre noir, une préparation culinaire de beurre cuit jusqu'à noircir, dont la couleur évoque celle d'un hématome autour de l'œil. Elle signifie avoir un œil poché après un coup.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-90",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «être sur la sellette» ?",
+    "answer": "La sellette était autrefois un petit siège bas sur lequel s'asseyait un accusé pour être interrogé devant ses juges. Elle signifie être exposé aux critiques ou aux questions gênantes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-91",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «être bête comme ses pieds» ?",
+    "answer": "Être très peu intelligent.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-92",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un caractère de cochon» ?",
+    "answer": "Avoir mauvais caractère.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-93",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «s'entendre comme chien et chat» ?",
+    "answer": "Se disputer constamment.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-94",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir une faim de loup» ?",
+    "answer": "Avoir très faim.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-95",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «être copains comme cochons» ?",
+    "answer": "Être très amis.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-96",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «verser des larmes de crocodile» ?",
+    "answer": "Feindre une tristesse ou une compassion que l'on ne ressent pas vraiment.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-97",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir une mémoire d'éléphant» ?",
+    "answer": "Avoir une excellente mémoire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-98",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «filer comme une flèche» ?",
+    "answer": "Partir ou courir très vite.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-99",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «être myope comme une taupe» ?",
+    "answer": "Avoir une très mauvaise vue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-100",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un appétit d'ogre» ?",
+    "answer": "Manger énormément.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-101",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «prendre quelqu'un la main dans le sac» ?",
+    "answer": "Surprendre quelqu'un en train de commettre une faute ou un délit.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-102",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «mettre tous ses œufs dans le même panier» ?",
+    "answer": "Tout miser sur une seule solution, au risque de tout perdre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-103",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir des œillères» ?",
+    "answer": "Refuser de voir la réalité au-delà de son propre point de vue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-104",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «noyer le poisson» ?",
+    "answer": "Embrouiller volontairement une explication pour éviter de répondre clairement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-105",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir la tête sur les épaules» ?",
+    "answer": "Être raisonnable, sensé.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-106",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «être le dindon de la farce» ?",
+    "answer": "Être la victime dupée dans une affaire, au bénéfice des autres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-107",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «casser sa tirelire» ?",
+    "answer": "Dépenser toutes ses économies.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-108",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un trou de mémoire» ?",
+    "answer": "Oublier momentanément quelque chose que l'on savait.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-109",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «monter sur ses grands chevaux» ?",
+    "answer": "Se mettre en colère, réagir avec emportement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-110",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «avoir le compas dans l'œil» ?",
+    "answer": "Savoir évaluer une mesure ou une distance avec précision, à vue d'œil.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-111",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «passer l'éponge» ?",
+    "answer": "Pardonner, oublier une faute ou un conflit passé.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-112",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir la langue bien pendue» ?",
+    "answer": "Être très bavard, parler avec aisance.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-113",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «mettre quelqu'un au pied du mur» ?",
+    "answer": "Forcer quelqu'un à prendre une décision, sans possibilité de se dérober.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-114",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un poids sur la conscience» ?",
+    "answer": "Se sentir coupable de quelque chose.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-115",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «en avoir plein le dos» ?",
+    "answer": "Être excédé par une situation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-116",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «faire l'autruche» ?",
+    "answer": "Refuser volontairement de voir un problème évident.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-117",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir des atomes crochus avec quelqu'un» ?",
+    "answer": "Bien s'entendre naturellement avec quelqu'un.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-118",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «tomber des nues» ?",
+    "answer": "Être extrêmement surpris par une nouvelle inattendue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-119",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir le dernier mot» ?",
+    "answer": "L'emporter dans une discussion ou une dispute.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-120",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «battre la campagne» ?",
+    "answer": "Délirer, tenir des propos incohérents.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-121",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «prendre la mouche» ?",
+    "answer": "Se vexer rapidement, souvent pour peu de chose.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-122",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un cœur de pierre» ?",
+    "answer": "Être insensible, dépourvu de compassion.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-123",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «tirer son épingle du jeu» ?",
+    "answer": "Se sortir habilement d'une situation délicate.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-124",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir la grosse tête» ?",
+    "answer": "Devenir prétentieux, se croire supérieur aux autres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-125",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «faire feu de tout bois» ?",
+    "answer": "Utiliser tous les moyens disponibles pour parvenir à ses fins.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-126",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «avoir des yeux de lynx» ?",
+    "answer": "Avoir une vue perçante, remarquer les moindres détails.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-127",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «prendre son courage à deux mains» ?",
+    "answer": "Se décider à affronter une situation difficile.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-128",
+    "theme": "expressions",
+    "difficulty": "difficile",
+    "question": "Que signifie «avoir le vent debout» ?",
+    "answer": "Rencontrer des obstacles, une opposition franche.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-129",
+    "theme": "expressions",
+    "difficulty": "moyen",
+    "question": "Que signifie «jouer au chat et à la souris» ?",
+    "answer": "Se poursuivre ou s'éviter mutuellement dans un jeu de ruse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "exp-130",
+    "theme": "expressions",
+    "difficulty": "facile",
+    "question": "Que signifie «avoir un cœur en or» ?",
+    "answer": "Être quelqu'un de très généreux et bienveillant.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-31",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 01, en Auvergne-Rhône-Alpes ?",
+    "answer": "L'Ain.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-32",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 02, celui de Laon ?",
+    "answer": "L'Aisne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-33",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 03, celui de Moulins ?",
+    "answer": "L'Allier.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-34",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 04, celui de Digne-les-Bains ?",
+    "answer": "Les Alpes-de-Haute-Provence.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-35",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 05, celui de Gap ?",
+    "answer": "Les Hautes-Alpes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-36",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 07, celui de Privas ?",
+    "answer": "L'Ardèche.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-37",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 08, celui de Charleville-Mézières ?",
+    "answer": "Les Ardennes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-38",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 09, celui de Foix ?",
+    "answer": "L'Ariège.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-39",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 10, celui de Troyes ?",
+    "answer": "L'Aube.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-40",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 11, celui de Carcassonne ?",
+    "answer": "L'Aude.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-41",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 12, celui de Rodez ?",
+    "answer": "L'Aveyron.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-42",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 15, celui d'Aurillac ?",
+    "answer": "Le Cantal.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-43",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 16, celui d'Angoulême ?",
+    "answer": "La Charente.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-44",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 17, celui de La Rochelle ?",
+    "answer": "La Charente-Maritime.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-45",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 18, celui de Bourges ?",
+    "answer": "Le Cher.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-46",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 19, celui de Tulle ?",
+    "answer": "La Corrèze.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-47",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 22, celui de Saint-Brieuc ?",
+    "answer": "Les Côtes-d'Armor.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-48",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 23, celui de Guéret ?",
+    "answer": "La Creuse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-49",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 24, celui de Périgueux ?",
+    "answer": "La Dordogne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-50",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 26, celui de Valence ?",
+    "answer": "La Drôme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-51",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 27, celui d'Évreux ?",
+    "answer": "L'Eure.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-52",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 28, celui de Chartres ?",
+    "answer": "L'Eure-et-Loir.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-53",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 30, celui de Nîmes ?",
+    "answer": "Le Gard.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-54",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 32, celui d'Auch ?",
+    "answer": "Le Gers.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-55",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 36, celui de Châteauroux ?",
+    "answer": "L'Indre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-56",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 37, celui de Tours ?",
+    "answer": "L'Indre-et-Loire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-57",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 39, celui de Lons-le-Saunier ?",
+    "answer": "Le Jura.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-58",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 40, celui de Mont-de-Marsan ?",
+    "answer": "Les Landes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-59",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 41, celui de Blois ?",
+    "answer": "Le Loir-et-Cher.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-60",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 42, celui de Saint-Étienne ?",
+    "answer": "La Loire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-61",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 43, celui du Puy-en-Velay ?",
+    "answer": "La Haute-Loire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-62",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 45, celui d'Orléans ?",
+    "answer": "Le Loiret.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-63",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 46, celui de Cahors ?",
+    "answer": "Le Lot.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-64",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 47, celui d'Agen ?",
+    "answer": "Le Lot-et-Garonne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-65",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 49, celui d'Angers ?",
+    "answer": "Le Maine-et-Loire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-66",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 50, celui de Saint-Lô ?",
+    "answer": "La Manche.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-67",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 52, celui de Chaumont ?",
+    "answer": "La Haute-Marne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-68",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 53, celui de Laval ?",
+    "answer": "La Mayenne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-69",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 54, celui de Nancy ?",
+    "answer": "La Meurthe-et-Moselle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-70",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 56, celui de Vannes ?",
+    "answer": "Le Morbihan.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-71",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 57, celui de Metz ?",
+    "answer": "La Moselle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-72",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 58, celui de Nevers ?",
+    "answer": "La Nièvre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-73",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 60, celui de Beauvais ?",
+    "answer": "L'Oise.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-74",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 61, celui d'Alençon ?",
+    "answer": "L'Orne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-75",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 62, celui d'Arras ?",
+    "answer": "Le Pas-de-Calais.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-76",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 64, celui de Pau ?",
+    "answer": "Les Pyrénées-Atlantiques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-77",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 65, celui de Tarbes ?",
+    "answer": "Les Hautes-Pyrénées.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-78",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 66, celui de Perpignan ?",
+    "answer": "Les Pyrénées-Orientales.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-79",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 68, celui de Colmar ?",
+    "answer": "Le Haut-Rhin.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-80",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 70, celui de Vesoul ?",
+    "answer": "La Haute-Saône.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-81",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 71, celui de Mâcon ?",
+    "answer": "La Saône-et-Loire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-82",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 72, celui du Mans ?",
+    "answer": "La Sarthe.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-83",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 73, celui de Chambéry ?",
+    "answer": "La Savoie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-84",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 74, celui d'Annecy ?",
+    "answer": "La Haute-Savoie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-85",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 77, celui de Melun ?",
+    "answer": "La Seine-et-Marne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-86",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 78, celui de Versailles ?",
+    "answer": "Les Yvelines.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-87",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 79, celui de Niort ?",
+    "answer": "Les Deux-Sèvres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-88",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 80, celui d'Amiens ?",
+    "answer": "La Somme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-89",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 81, celui d'Albi ?",
+    "answer": "Le Tarn.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-90",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 82, celui de Montauban ?",
+    "answer": "Le Tarn-et-Garonne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-91",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 84, celui d'Avignon ?",
+    "answer": "Le Vaucluse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-92",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 85, celui de La Roche-sur-Yon ?",
+    "answer": "La Vendée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-93",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 86, celui de Poitiers ?",
+    "answer": "La Vienne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-94",
+    "theme": "departements",
+    "difficulty": "difficile",
+    "question": "Quel département porte le numéro 87, celui de Limoges ?",
+    "answer": "La Haute-Vienne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-95",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 88, celui d'Épinal ?",
+    "answer": "Les Vosges.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-96",
+    "theme": "departements",
+    "difficulty": "moyen",
+    "question": "Quel département porte le numéro 89, celui d'Auxerre ?",
+    "answer": "L'Yonne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-97",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 91, celui d'Évry ?",
+    "answer": "L'Essonne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-98",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 92, à l'ouest de Paris ?",
+    "answer": "Les Hauts-de-Seine.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-99",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 93, au nord-est de Paris ?",
+    "answer": "La Seine-Saint-Denis.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-100",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 94, au sud-est de Paris ?",
+    "answer": "Le Val-de-Marne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "dep-101",
+    "theme": "departements",
+    "difficulty": "facile",
+    "question": "Quel département porte le numéro 95, au nord de Paris ?",
+    "answer": "Le Val-d'Oise.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-31",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Combien de litres de sang un cœur humain adulte pompe-t-il en moyenne chaque jour ?",
+    "answer": "Environ 7 500 litres par jour.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-32",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel animal dort le plus au monde, en moyenne ?",
+    "answer": "Le koala, qui peut dormir jusqu'à 20 heures par jour.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-33",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "À quelle vitesse un colibri bat-il des ailes ?",
+    "answer": "Très vite : plusieurs dizaines de battements par seconde selon les espèces.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-34",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Combien de temps vit une abeille ouvrière en été, en moyenne ?",
+    "answer": "Seulement quelques semaines, environ 5 à 6 semaines.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-35",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est le plus grand désert du monde ?",
+    "answer": "L'Antarctique, qui est le plus grand désert au sens scientifique du terme, devant le Sahara.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-36",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le pays le plus peuplé du monde selon les estimations récentes ?",
+    "answer": "L'Inde, qui a dépassé la Chine en population totale au cours des années 2020.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-37",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Un jour sur Vénus est-il plus long ou plus court qu'une année vénusienne ?",
+    "answer": "Plus long : Vénus tourne si lentement sur elle-même qu'un jour y dure plus longtemps qu'une année.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-38",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Combien d'yeux possède une abeille ?",
+    "answer": "Cinq yeux : deux grands yeux composés et trois petits yeux simples appelés ocelles.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-39",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quelle partie du corps humain continue de pousser toute la vie ?",
+    "answer": "Le nez et les oreilles continuent de s'allonger légèrement tout au long de la vie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-40",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est le seul continent sans reptiles ni serpents ?",
+    "answer": "L'Antarctique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-41",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la capitale du Canada ?",
+    "answer": "Ottawa, et non Toronto, souvent citée par erreur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-42",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quelle est la capitale du Brésil ?",
+    "answer": "Brasilia, et non Rio de Janeiro ni São Paulo.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-43",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le plus grand océan du monde ?",
+    "answer": "L'océan Pacifique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-44",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la plus haute montagne du monde ?",
+    "answer": "L'Everest, avec environ 8 849 mètres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-45",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le plus long fleuve du monde ?",
+    "answer": "Le Nil ou l'Amazone, selon la méthode de mesure retenue ; les deux sont généralement cités comme les plus longs.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-46",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est l'animal marin le plus venimeux au monde ?",
+    "answer": "La cuboméduse, aussi appelée guêpe de mer.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-47",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le plus grand pays du monde par la superficie ?",
+    "answer": "La Russie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-48",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est le plus petit os du corps humain ?",
+    "answer": "L'étrier, un minuscule os situé dans l'oreille moyenne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-49",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la température de fusion de la glace, en degrés Celsius ?",
+    "answer": "0 degré Celsius.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-50",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Combien de temps met la Terre à faire le tour du Soleil ?",
+    "answer": "Environ 365 jours et quart, soit une année.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-51",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel animal est capable de régénérer des membres entiers, comme sa queue ou ses pattes ?",
+    "answer": "La salamandre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-52",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la monnaie du Japon ?",
+    "answer": "Le yen.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-53",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quelle est la langue la plus parlée au monde en nombre total de locuteurs ?",
+    "answer": "L'anglais, en comptant locuteurs natifs et non natifs ; le mandarin arrive en tête si l'on ne compte que les locuteurs natifs.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-54",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est l'animal le plus lourd du monde ?",
+    "answer": "La baleine bleue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-55",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le symbole chimique de l'or ?",
+    "answer": "Au, du latin «aurum».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-56",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le symbole chimique de l'eau ?",
+    "answer": "H2O, soit deux atomes d'hydrogène et un atome d'oxygène.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-57",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle planète est surnommée la «planète rouge» ?",
+    "answer": "Mars.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-58",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Combien de lunes possède la planète Mars ?",
+    "answer": "Deux lunes, Phobos et Déimos.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-59",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel instrument mesure la température ?",
+    "answer": "Le thermomètre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-60",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel instrument mesure la pression atmosphérique ?",
+    "answer": "Le baromètre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-61",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est l'animal terrestre vivant le plus âgé connu et documenté ?",
+    "answer": "Une tortue des Seychelles nommée Jonathan, née vers 1832.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-62",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quelle est la vitesse de la lumière dans le vide, environ ?",
+    "answer": "Environ 300 000 kilomètres par seconde.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-63",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est le plus grand pays d'Afrique par la superficie ?",
+    "answer": "L'Algérie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-64",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Combien de temps dure, en moyenne, une grossesse humaine ?",
+    "answer": "Environ neuf mois, soit environ 40 semaines.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-65",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel animal terrestre a la plus longue espérance de vie ?",
+    "answer": "La tortue géante, qui peut vivre plus de 100 ans, voire au-delà de 150 ans pour certains individus.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-66",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la capitale de l'Égypte ?",
+    "answer": "Le Caire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-67",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le point le plus profond connu des océans ?",
+    "answer": "La fosse des Mariannes, dans l'océan Pacifique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-68",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel gaz les plantes absorbent-elles principalement lors de la photosynthèse ?",
+    "answer": "Le dioxyde de carbone.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-69",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel organe produit l'insuline dans le corps humain ?",
+    "answer": "Le pancréas.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-70",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "En combien de temps la Terre fait-elle un tour complet sur elle-même, environ ?",
+    "answer": "En environ 24 heures.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-71",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel pays a inventé le papier ?",
+    "answer": "La Chine, dans l'Antiquité.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-72",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel pays a inventé l'imprimerie à caractères mobiles métalliques en Europe ?",
+    "answer": "L'Allemagne, grâce à Johannes Gutenberg au XVe siècle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-73",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la capitale de la Russie ?",
+    "answer": "Moscou.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-74",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est l'animal symbole de la Chine, aujourd'hui menacé ?",
+    "answer": "Le panda géant.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-75",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le nom du plus grand récif corallien du monde ?",
+    "answer": "La Grande Barrière de corail, en Australie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-76",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Combien de temps faut-il en moyenne à un être humain pour digérer un repas complètement ?",
+    "answer": "Environ 24 à 72 heures, selon les aliments et les personnes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-77",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+    "answer": "L'hydrogène.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-78",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quelle est la plus grande île du monde ?",
+    "answer": "Le Groenland.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-79",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel est l'animal le plus rapide dans les airs, en piqué ?",
+    "answer": "Le faucon pèlerin, capable de dépasser 300 km/h en piqué.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-80",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Combien de couleurs compte-t-on traditionnellement dans un arc-en-ciel ?",
+    "answer": "Sept couleurs : rouge, orange, jaune, vert, bleu, indigo et violet.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-81",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel pourcentage du corps humain adulte est composé d'eau, environ ?",
+    "answer": "Environ 60%.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-82",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quelle chute d'eau est considérée comme la plus grande nappe d'eau tombante continue au monde ?",
+    "answer": "Les chutes Victoria, entre la Zambie et le Zimbabwe.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-83",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le nom du satellite naturel de la Terre ?",
+    "answer": "La Lune.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-84",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Combien de temps dure une révolution complète de la Lune autour de la Terre ?",
+    "answer": "Environ 27 à 29 jours, selon que l'on mesure par rapport aux étoiles ou par rapport au Soleil.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-85",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Quel animal a le cœur le plus gros du monde ?",
+    "answer": "La baleine bleue, dont le cœur peut peser plusieurs centaines de kilos.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-86",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le pays d'origine du sushi ?",
+    "answer": "Le Japon.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-87",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le pays d'origine de la pizza margherita ?",
+    "answer": "L'Italie, plus précisément la région de Naples.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-88",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Combien de temps met, en théorie, un rayon de lumière pour faire le tour de la Terre ?",
+    "answer": "Environ un septième de seconde.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-89",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel animal marin dort avec la moitié de son cerveau à la fois ?",
+    "answer": "Le dauphin, ce qui lui permet de continuer à nager et à respirer pendant son sommeil.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-90",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la capitale de l'Espagne ?",
+    "answer": "Madrid.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-91",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la capitale de l'Allemagne ?",
+    "answer": "Berlin.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-92",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quelle est la capitale du Portugal ?",
+    "answer": "Lisbonne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-93",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la capitale de la Grèce ?",
+    "answer": "Athènes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-94",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le nom du détroit qui sépare la France de l'Angleterre ?",
+    "answer": "La Manche.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-95",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+    "answer": "Le Brésil.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-96",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle est la capitale des États-Unis ?",
+    "answer": "Washington, D.C., et non New York, souvent citée par erreur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-97",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel animal est le symbole national des États-Unis, visible sur leur emblème ?",
+    "answer": "Le pygargue à tête blanche, souvent appelé aigle américain.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-98",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le plus haut sommet d'Afrique ?",
+    "answer": "Le Kilimandjaro, en Tanzanie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-99",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le nom du plus grand désert chaud du monde ?",
+    "answer": "Le Sahara.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-100",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "À quelle vitesse tombe en moyenne une goutte de pluie ?",
+    "answer": "Environ 20 à 30 km/h, selon sa taille.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-101",
+    "theme": "insolite",
+    "difficulty": "difficile",
+    "question": "Combien de temps un humain peut-il survivre sans manger, selon les cas documentés ?",
+    "answer": "Plusieurs semaines dans certains cas, mais cela dépend énormément des réserves de l'organisme et de l'hydratation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-102",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel organe filtre le sang pour produire l'urine ?",
+    "answer": "Les reins.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-103",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le nom donné à la peur des espaces clos ?",
+    "answer": "La claustrophobie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-104",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Quel est le nom donné à la peur du vide ou des hauteurs ?",
+    "answer": "L'acrophobie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-105",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel est le nom donné à la peur des araignées ?",
+    "answer": "L'arachnophobie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-106",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle couleur obtient-on en mélangeant du bleu et du jaune ?",
+    "answer": "Le vert.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-107",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quelle couleur obtient-on en mélangeant du rouge et du bleu ?",
+    "answer": "Le violet.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-108",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Quel instrument sert à observer les étoiles et les planètes ?",
+    "answer": "Le télescope.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-109",
+    "theme": "insolite",
+    "difficulty": "moyen",
+    "question": "Comment appelle-t-on le processus par lequel l'eau liquide se transforme en vapeur ?",
+    "answer": "L'évaporation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ins-110",
+    "theme": "insolite",
+    "difficulty": "facile",
+    "question": "Comment appelle-t-on le processus par lequel l'eau liquide se transforme en glace ?",
+    "answer": "La solidification, ou congélation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-01",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "Pourquoi dit-on «boucané» pour une viande fumée, comme le poulet ?",
+    "answer": "Le mot vient de «boucan», un gril de bois utilisé par les populations amérindiennes des Caraïbes pour fumer la viande. Les flibustiers qui reprirent cette technique furent surnommés «boucaniers», à l'origine du mot «buccaneer» en anglais.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-02",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «restaurant» ?",
+    "answer": "À l'origine, un «restaurant» désignait un bouillon reconstituant censé «restaurer» les forces. Le mot a ensuite désigné, au XVIIIe siècle, l'établissement où l'on servait ce plat, puis tout lieu où l'on sert des repas.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-03",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «sandwich» ?",
+    "answer": "Du nom de John Montagu, comte de Sandwich, un aristocrate anglais du XVIIIe siècle qui aurait demandé qu'on lui serve de la viande entre deux tranches de pain pour continuer à jouer aux cartes sans s'interrompre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-04",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «silhouette» ?",
+    "answer": "Du nom d'Étienne de Silhouette, contrôleur général des finances de Louis XV, connu pour ses mesures d'économie draconiennes ; son nom fut associé à des portraits simplifiés et peu coûteux, réalisés en ombre découpée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-05",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «poubelle» ?",
+    "answer": "Du nom d'Eugène Poubelle, préfet de Paris qui, en 1884, imposa aux habitants de la ville d'utiliser des récipients pour leurs ordures ménagères.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-06",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «guillotine» ?",
+    "answer": "Du nom du docteur Joseph-Ignace Guillotin, qui proposa en 1789 l'usage d'une machine pour rendre les exécutions capitales plus rapides et moins souffrantes, bien qu'il n'en soit pas l'inventeur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-07",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «nicotine» ?",
+    "answer": "Du nom de Jean Nicot, ambassadeur de France au Portugal au XVIe siècle, qui introduisit le tabac à la cour de France.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-08",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «pasteuriser» ?",
+    "answer": "Du nom de Louis Pasteur, qui mit au point ce procédé de chauffage permettant de détruire les micro-organismes présents dans un liquide.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-09",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «champagne» ?",
+    "answer": "Du nom de la région Champagne, dans le nord-est de la France, où ce vin effervescent est traditionnellement produit selon une méthode spécifique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-10",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «cognac» ?",
+    "answer": "Du nom de la ville de Cognac, en Charente, où cette eau-de-vie est traditionnellement produite.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-11",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «jean», le vêtement ?",
+    "answer": "Du tissu «de Gênes» (Genoa en anglais, d'où «jean»), une ville italienne d'où provenait ce tissu robuste utilisé pour fabriquer les premiers pantalons de travail.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-12",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «denim» ?",
+    "answer": "De l'expression française «de Nîmes», la ville de Nîmes étant réputée pour la fabrication de ce tissu robuste, exporté ensuite vers les États-Unis.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-13",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «limousine» (le véhicule) ?",
+    "answer": "Du Limousin, région française dont les bergers portaient une cape à capuchon ; selon l'étymologie la plus communément admise, la forme de cette cape aurait inspiré le toit couvrant l'avant du véhicule.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-14",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «bikini» ?",
+    "answer": "De l'atoll de Bikini, dans le Pacifique, où furent menés des essais nucléaires américains en 1946, la même année que la création de ce maillot de bain, jugée tout aussi «explosive».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-15",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «cravate» ?",
+    "answer": "Des mercenaires croates («Cravates» en ancien français) engagés par Louis XIII, dont le foulard noué autour du cou fit sensation à la cour de France au XVIIe siècle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-16",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «tomate» ?",
+    "answer": "Du mot nahuatl (langue aztèque) «tomatl», rapporté en Europe après la conquête espagnole du Mexique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-17",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «chocolat» ?",
+    "answer": "Du mot nahuatl «xocolatl», désignant une boisson amère à base de cacao consommée par les Aztèques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-18",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «avocat», le fruit ?",
+    "answer": "Du mot nahuatl «ahuacatl», qui désignait aussi le testicule en raison de la forme du fruit, francisé en «avocat» par ressemblance avec le mot désignant la profession.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-19",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «patate» ?",
+    "answer": "Du mot taïno «batata», qui désignait à l'origine la patate douce.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-20",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «ouragan» ?",
+    "answer": "Du mot taïno «hurakan», désignant un dieu du vent et de la tempête chez les peuples des Caraïbes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-21",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «alcool» ?",
+    "answer": "De l'arabe «al-kuhl», désignant à l'origine une poudre fine utilisée comme fard pour les yeux, avant que le terme ne s'applique aux liquides obtenus par distillation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-22",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «algèbre» ?",
+    "answer": "De l'arabe «al-jabr», tiré du titre d'un traité de mathématiques du savant Al-Khwarizmi au IXe siècle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-23",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «chiffre» ?",
+    "answer": "De l'arabe «sifr», qui signifie «vide» ou «zéro», introduit en Europe avec le système de numération arabe.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-24",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «magasin» ?",
+    "answer": "De l'arabe «makhazin», pluriel de «makhzan» signifiant «entrepôt», passé en français via l'italien.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-25",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «café» ?",
+    "answer": "De l'arabe «qahwa», passé par le turc «kahve», désignant la boisson préparée à partir des grains torréfiés.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-26",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «pantalon» ?",
+    "answer": "Du personnage de «Pantalone», un personnage type de la commedia dell'arte italienne, souvent représenté portant ce vêtement long couvrant les jambes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-27",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «robot» ?",
+    "answer": "Du mot tchèque «robota», qui signifie «travail forcé» ou «corvée», utilisé pour la première fois dans une pièce de l'écrivain tchèque Karel Čapek en 1920.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-28",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «gadget» ?",
+    "answer": "De l'anglais, où il désignait à l'origine tout petit objet ou dispositif mécanique dont on ne connaît pas ou plus le nom précis.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-29",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «robinet» ?",
+    "answer": "D'un ancien usage où les fontaines publiques étaient parfois ornées d'une tête de bélier, «robin» étant un ancien nom donné aux moutons ou béliers en français médiéval.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-30",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «étrennes» ?",
+    "answer": "Du latin «strena», qui désignait un présage ou un cadeau offert en début d'année dans la Rome antique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-31",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «salaire» ?",
+    "answer": "Du latin «salarium», la ration de sel («sal») autrefois donnée aux soldats romains, qui devint ensuite une somme d'argent versée en paiement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-32",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «trivial» ?",
+    "answer": "Du latin «trivium», qui désignait un carrefour où se croisaient trois voies, lieu de passage fréquenté associé à ce qui est banal et commun.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-33",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «désastre» ?",
+    "answer": "Du latin puis de l'italien «disastro», littéralement «mauvaise étoile», l'astrologie ancienne attribuant les malheurs à une mauvaise influence des astres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-34",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «influence» ?",
+    "answer": "Du latin médiéval «influentia», lié à l'astrologie : on croyait qu'un fluide invisible «coulait» des astres pour agir sur les événements terrestres et le caractère des personnes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-35",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «considérer» ?",
+    "answer": "Du latin «considerare», littéralement «observer attentivement les astres» (cum + sidus, l'étoile), avant de désigner l'action de réfléchir attentivement à quelque chose.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-36",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «hasard» ?",
+    "answer": "De l'arabe «az-zahr», désignant le jeu de dés, terme passé en français via l'espagnol au Moyen Âge.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-37",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «assassin» ?",
+    "answer": "L'origine est discutée par les historiens, mais l'hypothèse la plus communément citée le rattache à «hachichin», terme désignant les partisans d'une secte médiévale du Moyen-Orient, réputés consommer du haschisch avant leurs actions.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-38",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «orange», le fruit ?",
+    "answer": "De l'arabe «naranj», lui-même venu du persan, passé en français via l'italien et le vieux provençal.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-39",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «sucre» ?",
+    "answer": "De l'arabe «sukkar», lui-même issu du sanskrit «śarkarā», désignant à l'origine le sucre de canne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-40",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «coton» ?",
+    "answer": "De l'arabe «qutn», passé en français via l'espagnol ou l'italien au Moyen Âge.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-41",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «gymnase» ?",
+    "answer": "Du grec ancien «gymnasion», lieu où les athlètes s'entraînaient nus, «gymnos» signifiant «nu».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-42",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «musée» ?",
+    "answer": "Du grec ancien «mouseion», littéralement le «temple des Muses», les neuf déesses des arts et des sciences dans la mythologie grecque.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-43",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «panique» ?",
+    "answer": "Du dieu grec Pan, associé à une peur soudaine et irraisonnée que l'on croyait provoquée par sa présence dans les forêts.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-44",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «supplice de Tantale» ?",
+    "answer": "De Tantale, personnage de la mythologie grecque condamné à voir sans jamais pouvoir atteindre l'eau et les fruits placés près de lui.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-45",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «narcissique» ?",
+    "answer": "De Narcisse, personnage de la mythologie grecque tombé amoureux de son propre reflet dans l'eau.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-46",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «atlas», le recueil de cartes ?",
+    "answer": "Du titan Atlas de la mythologie grecque, condamné à porter le ciel sur ses épaules, dont l'image ornait la couverture des premiers recueils de cartes géographiques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-47",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «échec et mat» ?",
+    "answer": "De l'arabo-persan «shah mat», signifiant «le roi est mort» ou «impuissant», «shah» voulant dire «roi» en persan.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-48",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «amateur» ?",
+    "answer": "Du latin «amator», dérivé de «amare», «aimer», désignant celui qui pratique une activité par plaisir plutôt que par profession.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-49",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «alphabet» ?",
+    "answer": "De la combinaison des deux premières lettres de l'alphabet grec, «alpha» et «bêta».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-50",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «planète» ?",
+    "answer": "Du grec «planêtês», signifiant «errant» : les astres visibles à l'œil nu qui, contrairement aux étoiles fixes, semblaient se déplacer dans le ciel.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-51",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «dinosaure» ?",
+    "answer": "Du grec «deinos» (terrible) et «sauros» (lézard), littéralement «lézard terrible», forgé au XIXe siècle par le paléontologue britannique Richard Owen.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-52",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «télévision» ?",
+    "answer": "Du grec «têle» (loin) et du latin «visio» (vision), littéralement «voir de loin».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-53",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «téléphone» ?",
+    "answer": "Du grec «têle» (loin) et «phônê» (son, voix), littéralement «son de loin».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-54",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «automobile» ?",
+    "answer": "Du grec «autos» (soi-même) et du latin «mobilis» (mobile), littéralement «qui se meut par elle-même».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-55",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «hippopotame» ?",
+    "answer": "Du grec «hippos» (cheval) et «potamos» (fleuve), littéralement «cheval du fleuve».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-56",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «rhinocéros» ?",
+    "answer": "Du grec «rhis, rhinos» (nez) et «keras» (corne), littéralement «nez à corne».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-57",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «pharmacie» ?",
+    "answer": "Du grec «pharmakon», qui désignait à la fois le remède et le poison.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-58",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «économie» ?",
+    "answer": "Du grec «oikos» (la maison) et «nomos» (la règle, la loi), littéralement «l'administration de la maison».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-59",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «démocratie» ?",
+    "answer": "Du grec «dêmos» (le peuple) et «kratos» (le pouvoir), littéralement «le pouvoir du peuple».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-60",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «philosophie» ?",
+    "answer": "Du grec «philos» (ami) et «sophia» (sagesse), littéralement «l'amour de la sagesse».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-61",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient réellement le mot «kangourou» ?",
+    "answer": "D'une langue aborigène d'Australie. Une légende répandue veut qu'il signifiait «je ne comprends pas» en réponse aux explorateurs britanniques, mais cette histoire est aujourd'hui considérée comme une légende linguistique sans fondement réel.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-62",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «tabac» ?",
+    "answer": "L'origine exacte est discutée, mais le mot est généralement rattaché à une langue des Caraïbes désignant soit la plante, soit le tube utilisé pour l'inhaler, avant sa diffusion en Europe après la découverte des Amériques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-63",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «hamac» ?",
+    "answer": "D'un mot taïno désignant ce lit suspendu utilisé par les populations des Caraïbes, découvert par les Européens lors de la colonisation des Amériques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-64",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «cannibale» ?",
+    "answer": "D'une déformation du nom «Caraïbe», les Européens ayant associé ce peuple des Antilles à la pratique du cannibalisme lors des premiers contacts.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-65",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «cacao» ?",
+    "answer": "D'un mot d'origine mésoaméricaine, proche du nahuatl «cacahuatl», désignant les fèves utilisées par les civilisations précolombiennes pour préparer une boisson.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-66",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «vandalisme» ?",
+    "answer": "Du nom des Vandales, un peuple germanique qui envahit et pilla Rome au Ve siècle, leur nom étant devenu synonyme de destruction gratuite.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-67",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «marathon» ?",
+    "answer": "De la ville grecque de Marathon, où un soldat aurait couru jusqu'à Athènes pour annoncer une victoire militaire, avant de mourir d'épuisement, selon la légende.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-68",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «olympique» ?",
+    "answer": "De la ville grecque d'Olympie, où se déroulaient dans l'Antiquité des jeux en l'honneur de Zeus, à l'origine des Jeux olympiques modernes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-69",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «spartiate», pour désigner une vie austère ?",
+    "answer": "De Sparte, cité grecque antique réputée pour la rigueur et la sobriété de son mode de vie et de l'éducation de ses citoyens.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-70",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «laconique» ?",
+    "answer": "De la Laconie, région grecque dont la capitale était Sparte, ses habitants étant réputés pour la concision de leurs propos.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-71",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient l'expression «être limogé» ?",
+    "answer": "De la ville de Limoges, où furent envoyés en 1914 plusieurs généraux français relevés de leur commandement, loin du front.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-72",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où viendrait le mot «bistrot» ?",
+    "answer": "Son origine reste débattue chez les linguistes ; l'hypothèse d'un emprunt au russe «bystro» (vite), liée à une légende sur les soldats russes à Paris en 1814, n'est pas confirmée par les spécialistes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-73",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «tulipe» ?",
+    "answer": "Du turc «tülbent» (turban), les pétales de la fleur ayant rappelé la forme d'un turban aux Européens qui la découvrirent depuis l'Empire ottoman.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-74",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «abricot» ?",
+    "answer": "De l'arabe «al-barqūq», lui-même issu du latin «praecoquum» signifiant «précoce», le fruit mûrissant tôt dans la saison.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-75",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «artichaut» ?",
+    "answer": "De l'arabe «al-kharshuf», passé en français via l'italien.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-76",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «alcôve» ?",
+    "answer": "De l'arabe «al-qubba», désignant une voûte ou un renfoncement, passé en français via l'espagnol pour désigner un renfoncement de chambre destiné à un lit.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-77",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «amiral» ?",
+    "answer": "De l'arabe «amir al-bahr», littéralement «commandant de la mer», d'où le titre de commandement naval.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-78",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «douane» ?",
+    "answer": "De l'arabe «diwan», désignant un registre ou un bureau administratif, passé en français via l'italien.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-79",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «girafe» ?",
+    "answer": "De l'arabe «zarafa», lui-même probablement issu d'une langue africaine désignant cet animal.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-80",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «carafe» ?",
+    "answer": "De l'arabe «gharrafa», désignant un récipient utilisé pour puiser l'eau.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-81",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «ampoule», électrique ?",
+    "answer": "Du latin «ampulla», qui désignait un petit flacon renflé, la forme de l'ampoule électrique rappelant celle de ce récipient.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-82",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «essence», le carburant ?",
+    "answer": "Du latin «essentia», qui désignait la nature profonde d'une chose, avant que le terme ne soit repris en chimie pour un extrait concentré, puis pour le carburant dérivé du pétrole.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-83",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «carburant» ?",
+    "answer": "Du mot «carbone», ce type de combustible étant essentiellement composé de chaînes d'atomes de carbone et d'hydrogène.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-84",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «volcan» ?",
+    "answer": "De Vulcain, dieu romain du feu et de la forge, associé aux forces destructrices et créatrices du feu souterrain.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-85",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le nom du mois de «mars» et de la planète Mars ?",
+    "answer": "De Mars, dieu romain de la guerre, auquel les Romains associaient à la fois ce mois et la planète rouge, couleur évoquant le sang.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-86",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «janvier» ?",
+    "answer": "De Janus, dieu romain à deux visages, l'un tourné vers le passé et l'autre vers l'avenir, symbolisant le passage d'une année à l'autre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-87",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le mot «juin» ?",
+    "answer": "De Junon, déesse romaine protectrice du mariage et des femmes, épouse de Jupiter.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-88",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «mercredi» ?",
+    "answer": "De Mercure, dieu romain du commerce et des voyageurs, dont le nom a donné «dies Mercurii» en latin.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-89",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «jeudi» ?",
+    "answer": "De Jupiter, le roi des dieux romains, dont le nom a donné «dies Jovis» en latin.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-90",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «vendredi» ?",
+    "answer": "De Vénus, déesse romaine de l'amour et de la beauté, dont le nom a donné «dies Veneris» en latin.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-91",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «samedi» ?",
+    "answer": "Du latin «sabbati dies», le «jour du sabbat», jour de repos dans la tradition juive.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-92",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «dimanche» ?",
+    "answer": "Du latin «dies dominicus», le «jour du Seigneur», consacré au culte chrétien.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-93",
+    "theme": "etymologie",
+    "difficulty": "facile",
+    "question": "D'où vient le mot «lundi» ?",
+    "answer": "Du latin «dies lunae», littéralement le «jour de la Lune».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-94",
+    "theme": "etymologie",
+    "difficulty": "moyen",
+    "question": "D'où vient le mot «mardi» ?",
+    "answer": "De Mars, le dieu romain de la guerre, dont le nom a donné «dies Martis» en latin.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "ety-95",
+    "theme": "etymologie",
+    "difficulty": "difficile",
+    "question": "D'où vient le nom du mois d'«août» ?",
+    "answer": "De l'empereur romain Auguste, en l'honneur duquel ce mois fut renommé, comme juillet l'avait été en l'honneur de Jules César.",
+    "custom": false,
+    "lastSeenSession": null
+  }
+]
