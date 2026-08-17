@@ -5902,5 +5902,2165 @@
     "answer": "De l'empereur romain Auguste, en l'honneur duquel ce mois fut renommé, comme juillet l'avait été en l'honneur de Jules César.",
     "custom": false,
     "lastSeenSession": null
+  },
+  {
+    "id": "his-01",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Combien de temps a duré la guerre de Cent Ans ?",
+    "answer": "116 ans, de 1337 à 1453. Le nom est donc un arrondi assez généreux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-02",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Combien de prisonniers y avait-il dans la Bastille le 14 juillet 1789 ?",
+    "answer": "Sept seulement. La prise de la Bastille était surtout symbolique : la forteresse représentait l'arbitraire royal, et on y cherchait aussi de la poudre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-03",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Napoléon était-il vraiment petit ?",
+    "answer": "Non, il mesurait environ 1,68 m, une taille banale pour l'époque. La légende vient d'une confusion entre pouces français et anglais, et de la propagande britannique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-04",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Charlemagne a-t-il inventé l'école ?",
+    "answer": "Non. Des écoles existaient bien avant lui, dès l'Antiquité. Il a en revanche encouragé le développement des écoles liées aux évêchés et à son palais. La chanson de France Gall a beaucoup fait pour cette idée reçue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-05",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Quel roi de France a régné le plus longtemps ?",
+    "answer": "Louis XIV, avec 72 ans de règne, de 1643 à 1715.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-06",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel âge avait Louis XIV lorsqu'il est devenu roi ?",
+    "answer": "Quatre ans. Sa mère Anne d'Autriche et le cardinal Mazarin ont gouverné pendant la régence.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-07",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "D'où vient le surnom de « Roi-Soleil » donné à Louis XIV ?",
+    "answer": "D'un ballet de cour de 1653, le Ballet royal de la Nuit, où le jeune roi dansait le rôle du Soleil levant. Il en fit ensuite son emblème.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-08",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Dans quelle ville La Marseillaise a-t-elle été composée ?",
+    "answer": "À Strasbourg, en 1792, par Rouget de Lisle. Elle s'appelait alors « Chant de guerre pour l'armée du Rhin » ; son nom actuel vient des fédérés marseillais qui la chantèrent en arrivant à Paris.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-09",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Que raconte l'épisode du vase de Soissons ?",
+    "answer": "Selon le récit de Grégoire de Tours, un guerrier brisa un vase que Clovis voulait rendre à l'Église. Un an plus tard, Clovis lui fendit le crâne en lui rappelant l'incident. L'anecdote illustre l'affirmation de son autorité.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-10",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Combien de temps la tour Eiffel devait-elle rester debout à l'origine ?",
+    "answer": "Vingt ans seulement : elle devait être démontée en 1909. Son utilité comme antenne pour la télégraphie sans fil l'a sauvée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-11",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel âge avait Jeanne d'Arc à sa mort ?",
+    "answer": "Environ 19 ans. Elle fut brûlée à Rouen en 1431.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-12",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Jeanne d'Arc a-t-elle été réhabilitée après sa mort ?",
+    "answer": "Oui, un procès en nullité l'a réhabilitée en 1456, soit 25 ans après son exécution. Elle a été canonisée en 1920.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-13",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Quel pays a offert la statue de la Liberté aux États-Unis ?",
+    "answer": "La France, pour le centenaire de l'indépendance américaine. Elle fut inaugurée en 1886.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-14",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année les femmes ont-elles obtenu le droit de vote en France ?",
+    "answer": "En 1944 par ordonnance ; elles ont voté pour la première fois en 1945, aux élections municipales.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-15",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quand les congés payés ont-ils été instaurés en France ?",
+    "answer": "En 1936, sous le Front populaire. Il s'agissait alors de deux semaines par an.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-16",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Que sont les « taxis de la Marne » ?",
+    "answer": "Des taxis parisiens réquisitionnés en septembre 1914 pour transporter des soldats vers le front de la Marne. Leur rôle militaire fut modeste, mais l'épisode est devenu un symbole de mobilisation.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-17",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année a eu lieu la bataille de Verdun ?",
+    "answer": "En 1916, pendant la Première Guerre mondiale. Elle dura près de dix mois.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-18",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "D'où le général de Gaulle a-t-il lancé son appel du 18 juin 1940 ?",
+    "answer": "De Londres, sur les ondes de la BBC.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-19",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année Paris a-t-il été libéré ?",
+    "answer": "En août 1944.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-20",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année la Ve République a-t-elle été instaurée ?",
+    "answer": "En 1958, avec une nouvelle Constitution et le retour au pouvoir du général de Gaulle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-21",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année la peine de mort a-t-elle été abolie en France ?",
+    "answer": "En 1981, sous l'impulsion du garde des Sceaux Robert Badinter.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-22",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "En quelle année les pièces et billets en euros sont-ils entrés en circulation ?",
+    "answer": "Le 1er janvier 2002.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-23",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Comment s'appelait la France à l'époque romaine ?",
+    "answer": "La Gaule.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-24",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Où et quand Vercingétorix s'est-il rendu à Jules César ?",
+    "answer": "À Alésia, en 52 avant J.-C.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-25",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qui est considéré comme le premier roi de France ?",
+    "answer": "Cela dépend du critère retenu, et les historiens en débattent : Clovis est souvent cité comme premier roi des Francs unifiés, tandis que Hugues Capet, en 987, fonde la dynastie capétienne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-26",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qui a arrêté l'avancée arabe à Poitiers en 732 ?",
+    "answer": "Charles Martel.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-27",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que le massacre de la Saint-Barthélemy ?",
+    "answer": "Un massacre de protestants commencé à Paris le 24 août 1572, pendant les guerres de Religion, qui s'étendit ensuite à plusieurs villes de province.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-28",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'accordait l'édit de Nantes ?",
+    "answer": "Une liberté de culte encadrée aux protestants, en 1598, sous Henri IV. Louis XIV le révoqua en 1685.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-29",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "En quelle année Louis XIV s'est-il installé définitivement à Versailles ?",
+    "answer": "En 1682. Le château devint alors le siège du pouvoir royal.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-30",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Marie-Antoinette a-t-elle vraiment dit « qu'ils mangent de la brioche » ?",
+    "answer": "Rien ne le prouve. Une formule très proche apparaît chez Rousseau, attribuée à « une grande princesse », dans un texte écrit avant même l'arrivée de Marie-Antoinette en France.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-31",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année la Déclaration des droits de l'homme et du citoyen a-t-elle été adoptée ?",
+    "answer": "En août 1789.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-32",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Comment s'appelaient les mois du calendrier révolutionnaire français ?",
+    "answer": "Ils portaient des noms inspirés de la nature et des saisons, comme Vendémiaire, Brumaire, Germinal ou Thermidor. Ce calendrier fut utilisé de 1793 à 1805.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-33",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qui a couronné Napoléon empereur en 1804 ?",
+    "answer": "Il s'est couronné lui-même, en présence du pape Pie VII, lors du sacre à Notre-Dame de Paris.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-34",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quelle bataille est considérée comme la plus grande victoire de Napoléon ?",
+    "answer": "Austerlitz, en 1805, souvent surnommée la bataille des Trois Empereurs.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-35",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Où Napoléon a-t-il subi sa dernière défaite ?",
+    "answer": "À Waterloo, en Belgique actuelle, en 1815.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-36",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Sur quelle île Napoléon est-il mort ?",
+    "answer": "Sainte-Hélène, dans l'Atlantique sud, en 1821.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-37",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Quel code juridique majeur Napoléon a-t-il fait adopter en 1804 ?",
+    "answer": "Le Code civil, souvent appelé Code Napoléon, dont l'influence se retrouve encore dans le droit de nombreux pays.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-38",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'était la Commune de Paris ?",
+    "answer": "Un gouvernement révolutionnaire qui dirigea Paris de mars à mai 1871, réprimé lors de la « Semaine sanglante ».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-39",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Pour quel événement la tour Eiffel a-t-elle été construite ?",
+    "answer": "Pour l'Exposition universelle de 1889, qui marquait le centenaire de la Révolution française.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-40",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année la première ligne du métro parisien a-t-elle ouvert ?",
+    "answer": "En 1900, à l'occasion de l'Exposition universelle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-41",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Que prévoit la loi de 1905 en France ?",
+    "answer": "La séparation des Églises et de l'État, fondement du principe de laïcité.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-42",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel traité a mis fin officiellement à la Première Guerre mondiale ?",
+    "answer": "Le traité de Versailles, signé en 1919.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-43",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'était la ligne Maginot ?",
+    "answer": "Une ligne de fortifications construite dans l'entre-deux-guerres le long de la frontière est de la France. Les Allemands la contournèrent en 1940 en passant par la Belgique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-44",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Quelle est la devise de la République française ?",
+    "answer": "Liberté, Égalité, Fraternité.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-45",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quelles sont les trois couleurs du drapeau français et que représentent-elles ?",
+    "answer": "Bleu, blanc, rouge. Le blanc était la couleur de la monarchie, le bleu et le rouge celles de la ville de Paris.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-46",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Quel jour est la fête nationale française ?",
+    "answer": "Le 14 juillet.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-47",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Le 14 juillet célèbre-t-il uniquement la prise de la Bastille ?",
+    "answer": "Non. La loi de 1880 qui institue la fête nationale reste volontairement ambiguë : elle permet de célébrer aussi la Fête de la Fédération du 14 juillet 1790, plus consensuelle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-48",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que la Terreur pendant la Révolution française ?",
+    "answer": "Une période de répression politique intense, principalement en 1793 et 1794, marquée par de très nombreuses exécutions et dominée par le Comité de salut public.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-49",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année l'esclavage a-t-il été définitivement aboli dans les colonies françaises ?",
+    "answer": "En 1848. Une première abolition de 1794 avait été annulée par Napoléon en 1802.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-50",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Combien de républiques la France a-t-elle connues ?",
+    "answer": "Cinq. La Ve République est en vigueur depuis 1958.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-51",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qui était le premier président de la Ve République ?",
+    "answer": "Charles de Gaulle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-52",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qui fut le premier président de la République française, toutes républiques confondues ?",
+    "answer": "Louis-Napoléon Bonaparte, élu en 1848, qui devint ensuite l'empereur Napoléon III.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-53",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que Mai 68 ?",
+    "answer": "Une vaste période de contestation étudiante et de grèves générales en France au printemps 1968, qui a marqué durablement la société française.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-54",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "En quelle année la Bretagne a-t-elle été rattachée au royaume de France ?",
+    "answer": "Le rattachement s'est fait progressivement, scellé par l'union de 1532 sous François Ier, après les mariages d'Anne de Bretagne avec deux rois de France.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-55",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "En quelle année la Savoie et Nice sont-elles devenues françaises ?",
+    "answer": "En 1860, à la suite d'un traité avec le royaume de Sardaigne et de plébiscites locaux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-56",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quelle guerre a opposé la France à la Prusse en 1870 ?",
+    "answer": "La guerre franco-prussienne, qui s'est soldée par la défaite française, la chute du Second Empire et la perte de l'Alsace-Lorraine.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-57",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quand l'Alsace-Lorraine est-elle redevenue française après 1871 ?",
+    "answer": "En 1918, à la fin de la Première Guerre mondiale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-58",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'était le Concordat de 1801 ?",
+    "answer": "Un accord entre Napoléon Bonaparte et le pape Pie VII organisant les relations entre l'État français et l'Église catholique. Il resta en vigueur jusqu'en 1905.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-59",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Quel monument parisien a été transformé en prison pendant la Révolution ?",
+    "answer": "La Conciergerie, où fut notamment détenue Marie-Antoinette avant son exécution.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-60",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Que célèbre l'Arc de triomphe à Paris ?",
+    "answer": "Les victoires des armées françaises, notamment sous la Révolution et l'Empire. Il abrite depuis 1921 la tombe du Soldat inconnu.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-61",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qui repose au Panthéon à Paris ?",
+    "answer": "De grandes figures ayant marqué l'histoire de France, comme Voltaire, Victor Hugo, Marie Curie, Jean Moulin ou Simone Veil.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-62",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Quelle est la devise inscrite au fronton du Panthéon ?",
+    "answer": "« Aux grands hommes, la patrie reconnaissante ».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-63",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel roi de France a été surnommé « le Bien-Aimé » ?",
+    "answer": "Louis XV, surnom reçu après une grave maladie en 1744, avant que sa popularité ne décline nettement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-64",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Quelle passion inhabituelle Louis XVI cultivait-il ?",
+    "answer": "La serrurerie. Il possédait un atelier et pratiquait ce travail manuel avec application, ce qui détonnait pour un roi.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-65",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que la Fronde ?",
+    "answer": "Une série de révoltes contre l'autorité royale entre 1648 et 1653, pendant l'enfance de Louis XIV. Le souvenir de cette humiliation explique en partie sa méfiance envers Paris et la noblesse.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-66",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Combien de temps a duré le règne de Napoléon lors des Cent-Jours ?",
+    "answer": "Environ cent jours, en 1815, entre son retour de l'île d'Elbe et sa défaite à Waterloo.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-67",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'appelle-t-on la « Belle Époque » ?",
+    "answer": "La période allant de la fin du XIXe siècle à 1914, marquée en France par le progrès technique, l'essor artistique et une relative prospérité. L'expression a été forgée après la Première Guerre mondiale, par nostalgie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-68",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Que sont les « Trente Glorieuses » ?",
+    "answer": "Les trois décennies de forte croissance économique en France, de 1945 au milieu des années 1970.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-69",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année la guerre d'Algérie s'est-elle terminée ?",
+    "answer": "En 1962, avec les accords d'Évian et l'indépendance de l'Algérie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-70",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que le régime de Vichy ?",
+    "answer": "Le régime autoritaire dirigé par Philippe Pétain de 1940 à 1944, qui collabora avec l'Allemagne nazie après la défaite française.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-71",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel jour a eu lieu le débarquement de Normandie ?",
+    "answer": "Le 6 juin 1944, souvent appelé le Jour J.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-72",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Combien de plages de débarquement ont été utilisées en Normandie le 6 juin 1944 ?",
+    "answer": "Cinq, portant les noms de code Utah, Omaha, Gold, Juno et Sword.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-73",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que la Résistance française ?",
+    "answer": "L'ensemble des mouvements et réseaux qui ont combattu l'occupation allemande et le régime de Vichy entre 1940 et 1944.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-74",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Quel célèbre château de la Loire possède un escalier à double révolution ?",
+    "answer": "Chambord. Son escalier permet à deux personnes de monter et descendre sans se croiser.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-75",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Où Léonard de Vinci a-t-il passé les dernières années de sa vie ?",
+    "answer": "En France, au Clos Lucé près d'Amboise, invité par François Ier. Il y est mort en 1519.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-76",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Comment la Joconde est-elle arrivée en France ?",
+    "answer": "Léonard de Vinci l'a apportée avec lui en France, et l'œuvre est entrée dans les collections royales sous François Ier. Elle n'a donc pas été volée à l'Italie, contrairement à une idée répandue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-77",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "La Joconde a-t-elle déjà été volée ?",
+    "answer": "Oui, en 1911, par un employé italien du Louvre. Le tableau fut retrouvé deux ans plus tard en Italie. Ce vol a beaucoup contribué à sa célébrité mondiale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-78",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que la pierre de Rosette et pourquoi est-elle importante ?",
+    "answer": "Une stèle découverte en Égypte lors de l'expédition de Bonaparte, portant le même texte en trois écritures. Elle a permis à Champollion de déchiffrer les hiéroglyphes en 1822.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-79",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel roi de France a été surnommé « Saint Louis » ?",
+    "answer": "Louis IX, roi au XIIIe siècle, canonisé après sa mort.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-80",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Combien de croisades ont été organisées au Moyen Âge ?",
+    "answer": "On en compte traditionnellement huit principales, entre la fin du XIe et la fin du XIIIe siècle, même si le décompte varie selon les historiens.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-81",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que la peste noire ?",
+    "answer": "Une épidémie qui ravagea l'Europe à partir de 1347, tuant une part considérable de la population, estimée souvent entre un tiers et la moitié.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-82",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'était la Grande Peur de 1789 ?",
+    "answer": "Une vague de panique rurale dans la France de l'été 1789, où des rumeurs de complots aristocratiques provoquèrent des révoltes paysannes contre les seigneurs.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-83",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que la nuit du 4 août 1789 ?",
+    "answer": "La nuit où l'Assemblée constituante a voté l'abolition des privilèges féodaux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-84",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'était le serment du Jeu de paume ?",
+    "answer": "Le serment prêté le 20 juin 1789 par les députés du tiers état, réunis dans une salle de jeu de paume à Versailles, de ne pas se séparer avant d'avoir donné une constitution à la France.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-85",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Quel animal figure sur le maillot des équipes sportives françaises ?",
+    "answer": "Le coq, symbole traditionnel de la France, lié à un jeu de mots latin entre « gallus » (le coq) et « Gallus » (le Gaulois).",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-86",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qui est Marianne ?",
+    "answer": "La figure allégorique de la République française, représentée en buste dans les mairies et sur certains timbres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-87",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Pourquoi les rois de France étaient-ils sacrés à Reims ?",
+    "answer": "Par référence au baptême de Clovis, qui aurait eu lieu à Reims. La tradition du sacre dans cette cathédrale s'est imposée durablement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-88",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que la tapisserie de Bayeux raconte ?",
+    "answer": "La conquête de l'Angleterre par Guillaume le Conquérant en 1066, sur une broderie de près de 70 mètres de long.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-89",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qui étaient les Templiers ?",
+    "answer": "Un ordre religieux et militaire fondé au XIIe siècle, devenu très puissant financièrement, dissous en 1312 après l'action du roi Philippe le Bel.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-90",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel roi de France est surnommé « le Bel » et a fait arrêter les Templiers ?",
+    "answer": "Philippe IV le Bel, au début du XIVe siècle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-91",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que l'affaire du collier de la reine ?",
+    "answer": "Une escroquerie retentissante de 1785 impliquant un collier de diamants et le nom de Marie-Antoinette, qui n'y était pourtant pas partie prenante. L'affaire a durablement abîmé son image.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-92",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel événement a déclenché la Première Guerre mondiale ?",
+    "answer": "L'assassinat de l'archiduc François-Ferdinand à Sarajevo en juin 1914, qui a enclenché le jeu des alliances européennes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-93",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "Quel jour l'armistice de la Première Guerre mondiale a-t-il été signé ?",
+    "answer": "Le 11 novembre 1918.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-94",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Que commémore le 8 mai en France ?",
+    "answer": "La capitulation de l'Allemagne nazie en 1945, marquant la fin de la Seconde Guerre mondiale en Europe.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-95",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'était le « mur de l'Atlantique » ?",
+    "answer": "Un vaste ensemble de fortifications construit par l'Allemagne nazie le long des côtes de l'Europe de l'Ouest pour empêcher un débarquement allié.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-96",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que le plan Marshall ?",
+    "answer": "Un programme d'aide économique américain destiné à reconstruire l'Europe après la Seconde Guerre mondiale, lancé en 1947.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-97",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Quel traité est considéré comme l'acte fondateur de la construction européenne ?",
+    "answer": "Le traité de Rome, signé en 1957, qui institue la Communauté économique européenne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-98",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année le mur de Berlin est-il tombé ?",
+    "answer": "En 1989.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-99",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "En quelle année la France a-t-elle gagné sa première Coupe du monde de football ?",
+    "answer": "En 1998, à domicile.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-100",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "En quelle année le tunnel sous la Manche a-t-il été inauguré ?",
+    "answer": "En 1994.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-101",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'était le Concorde ?",
+    "answer": "Un avion de ligne supersonique franco-britannique, en service de 1976 à 2003, capable de relier Paris à New York en environ trois heures et demie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-102",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Quand le premier TGV commercial est-il entré en service ?",
+    "answer": "En 1981, sur la ligne Paris-Lyon.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-103",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que la Sainte-Chapelle et qui l'a fait construire ?",
+    "answer": "Une chapelle gothique de Paris célèbre pour ses vitraux, édifiée au XIIIe siècle par Louis IX pour abriter des reliques de la Passion.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-104",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Combien de temps a duré la construction de Notre-Dame de Paris ?",
+    "answer": "Près de deux siècles : commencée en 1163, la cathédrale fut achevée dans ses grandes lignes au milieu du XIVe siècle.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-105",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Quel roman a contribué à sauver Notre-Dame de Paris de la démolition ?",
+    "answer": "« Notre-Dame de Paris » de Victor Hugo, publié en 1831, qui a suscité un vaste mouvement en faveur de la restauration de l'édifice alors très dégradé.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-106",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qui a restauré Notre-Dame de Paris au XIXe siècle et ajouté sa flèche ?",
+    "answer": "L'architecte Eugène Viollet-le-Duc.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-107",
+    "theme": "histoire",
+    "difficulty": "facile",
+    "question": "En quelle année un incendie a-t-il gravement endommagé Notre-Dame de Paris ?",
+    "answer": "En 2019.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-108",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que le mètre et où a-t-il été défini ?",
+    "answer": "Une unité créée pendant la Révolution française, définie à l'origine comme la dix-millionième partie du quart du méridien terrestre. Sa définition scientifique a depuis été affinée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-109",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel système de mesure la Révolution française a-t-elle imposé ?",
+    "answer": "Le système métrique décimal, à l'origine du système international d'unités utilisé aujourd'hui dans la quasi-totalité du monde.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-110",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que l'Académie française et qui l'a fondée ?",
+    "answer": "Une institution chargée de veiller sur la langue française, fondée en 1635 par le cardinal de Richelieu. Elle compte quarante membres, appelés les « Immortels ».",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-111",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Depuis quand le français est-il la langue officielle de l'administration en France ?",
+    "answer": "Depuis l'ordonnance de Villers-Cotterêts, signée par François Ier en 1539.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-112",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'était la « Cour des Miracles » à Paris ?",
+    "answer": "Un quartier mal famé de l'Ancien Régime où, selon la légende, les mendiants simulant des infirmités retrouvaient miraculeusement la santé en rentrant chez eux.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-113",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que le Louvre était avant de devenir un musée ?",
+    "answer": "Une forteresse médiévale, puis un palais royal. Il est devenu musée en 1793, pendant la Révolution.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-114",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "En quelle année la pyramide du Louvre a-t-elle été inaugurée ?",
+    "answer": "En 1989, conçue par l'architecte Ieoh Ming Pei.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-115",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Quel est le plus vieux pont de Paris ?",
+    "answer": "Le Pont-Neuf, achevé au début du XVIIe siècle, malgré son nom.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-116",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Pourquoi les numéros des arrondissements de Paris forment-ils une spirale ?",
+    "answer": "Le découpage de 1860 attribue les numéros en partant du centre et en tournant dans le sens des aiguilles d'une montre, d'où cette forme d'escargot.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-117",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Que sont les catacombes de Paris ?",
+    "answer": "D'anciennes carrières souterraines transformées à la fin du XVIIIe siècle en ossuaire, pour désengorger les cimetières de la ville.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-118",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que la « Fête de la Fédération » ?",
+    "answer": "Une grande célébration organisée le 14 juillet 1790 au Champ-de-Mars, un an après la prise de la Bastille, symbolisant l'unité nationale retrouvée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-119",
+    "theme": "histoire",
+    "difficulty": "moyen",
+    "question": "Combien de temps a duré le Second Empire ?",
+    "answer": "Environ 18 ans, de 1852 à 1870, sous Napoléon III.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "his-120",
+    "theme": "histoire",
+    "difficulty": "difficile",
+    "question": "Combien de temps a régné Louis XIX, selon la tradition ?",
+    "answer": "Une vingtaine de minutes en 1830, le temps de signer son abdication après celle de son père Charles X. Les historiens débattent toutefois de la réalité juridique de ce règne éclair.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-01",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi le ciel est-il bleu ?",
+    "answer": "L'atmosphère disperse la lumière du Soleil, et elle disperse beaucoup plus le bleu que le rouge. On voit donc du bleu venir de partout dans le ciel.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-02",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le ciel devient-il rouge au coucher du soleil ?",
+    "answer": "Le soir, la lumière traverse une épaisseur d'atmosphère bien plus grande. Le bleu est dispersé avant d'arriver jusqu'à nous, et il ne reste que les rouges et les orangés.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-03",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi la glace flotte-t-elle sur l'eau ?",
+    "answer": "Parce que l'eau est l'un des rares corps dont la forme solide est moins dense que la forme liquide. En gelant, l'eau se dilate au lieu de se contracter.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-04",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Les astronautes flottent-ils parce qu'il n'y a pas de gravité dans l'espace ?",
+    "answer": "Non, c'est une idée reçue. À l'altitude de la Station spatiale, la gravité terrestre reste très forte. Les astronautes flottent parce qu'ils sont en chute libre permanente autour de la Terre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-05",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Les courbatures sont-elles dues à l'acide lactique ?",
+    "answer": "Non, c'est une idée reçue tenace. L'acide lactique est évacué en une heure environ. Les courbatures viennent de micro-lésions musculaires et de l'inflammation qui suit.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-06",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "N'utilisons-nous vraiment que 10% de notre cerveau ?",
+    "answer": "Non, c'est un mythe. L'imagerie médicale montre que la quasi-totalité du cerveau est active, selon les moments et les tâches.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-07",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "La Grande Muraille de Chine est-elle visible depuis l'espace à l'œil nu ?",
+    "answer": "Non. Elle est très longue mais bien trop étroite. Plusieurs astronautes ont confirmé ne pas la distinguer à l'œil nu depuis l'orbite terrestre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-08",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi y a-t-il des saisons sur Terre ?",
+    "answer": "À cause de l'inclinaison de l'axe de rotation de la Terre, et non de sa distance au Soleil. C'est pour cela que les saisons sont inversées entre hémisphère nord et hémisphère sud.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-09",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi voit-on toujours la même face de la Lune ?",
+    "answer": "Parce que la Lune met exactement le même temps à tourner sur elle-même qu'à faire le tour de la Terre. On appelle cela la rotation synchrone.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-10",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi entend-on le tonnerre après avoir vu l'éclair ?",
+    "answer": "Parce que la lumière voyage bien plus vite que le son. Compter les secondes entre les deux donne une idée de la distance : environ un kilomètre toutes les trois secondes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-11",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Un éclair est-il plus chaud que la surface du Soleil ?",
+    "answer": "Oui. L'air traversé par un éclair peut atteindre plusieurs dizaines de milliers de degrés, bien au-delà des quelque 5 500 °C de la surface solaire.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-12",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi les oignons font-ils pleurer ?",
+    "answer": "En les coupant, on libère un composé soufré volatil. Au contact des yeux, il forme une substance irritante, et les larmes servent à l'évacuer.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-13",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le piment brûle-t-il la bouche ?",
+    "answer": "À cause de la capsaïcine, qui active les récepteurs de la chaleur et de la douleur. Le cerveau croit à une brûlure alors qu'il n'y a aucun dommage thermique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-14",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi boire de l'eau ne calme-t-il pas le piment ?",
+    "answer": "Parce que la capsaïcine n'est pas soluble dans l'eau. Un corps gras comme le lait ou le yaourt est bien plus efficace.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-15",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi la menthe donne-t-elle une sensation de froid ?",
+    "answer": "Le menthol active les récepteurs du froid de la bouche. Rien ne refroidit réellement, c'est le capteur qui est trompé.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-16",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le café réveille-t-il ?",
+    "answer": "La caféine prend la place d'une molécule, l'adénosine, qui s'accumule dans le cerveau et signale la fatigue. Le signal de fatigue est bloqué, mais la fatigue elle-même reste.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-17",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi le pain gonfle-t-il à la cuisson ?",
+    "answer": "La levure produit du gaz carbonique qui forme des bulles dans la pâte. La chaleur dilate ces bulles et fige la structure.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-18",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi met-on du sel sur les routes en hiver ?",
+    "answer": "Parce que le sel abaisse la température à laquelle l'eau gèle. L'eau salée reste liquide en dessous de zéro degré.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-19",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le savon lave-t-il ?",
+    "answer": "Ses molécules ont une extrémité qui aime l'eau et une autre qui aime le gras. Elles s'accrochent à la saleté grasse et permettent à l'eau de l'emporter.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-20",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi le fer rouille-t-il ?",
+    "answer": "Parce qu'il réagit avec l'oxygène en présence d'humidité, ce qui forme de l'oxyde de fer. Sans eau ni air, pas de rouille.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-21",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi les feuilles changent-elles de couleur en automne ?",
+    "answer": "L'arbre cesse de produire de la chlorophylle, le pigment vert. Les pigments jaunes et orangés, présents toute l'année, deviennent alors visibles.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-22",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi un objet en métal semble-t-il plus froid qu'un objet en bois posé dans la même pièce ?",
+    "answer": "Ils sont à la même température. Le métal conduit simplement la chaleur beaucoup plus vite : il évacue celle de la main, d'où la sensation de froid.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-23",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi un miroir inverse-t-il la gauche et la droite mais pas le haut et le bas ?",
+    "answer": "En réalité, il n'inverse ni l'un ni l'autre : il inverse l'avant et l'arrière. C'est notre façon de nous imaginer en train de nous retourner qui crée l'illusion.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-24",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi la fumée monte-t-elle ?",
+    "answer": "Parce que l'air chaud est moins dense que l'air froid. Il s'élève, en emportant les particules de fumée avec lui.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-25",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi un ballon gonflé à l'hélium s'envole-t-il ?",
+    "answer": "Parce que l'hélium est bien plus léger que l'air. Le ballon subit une poussée vers le haut, comme un bouchon de liège dans l'eau.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-26",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Comment un avion tient-il en l'air ?",
+    "answer": "Son aile dévie l'air vers le bas en le traversant. En réaction, l'air pousse l'aile vers le haut : c'est la portance.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-27",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi y a-t-il des marées ?",
+    "answer": "Principalement à cause de l'attraction de la Lune sur les océans, avec une contribution du Soleil. Quand les deux s'alignent, les marées sont les plus fortes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-28",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi la mer est-elle salée ?",
+    "answer": "La pluie et les rivières arrachent des minéraux aux roches et les transportent vers la mer. L'eau s'évapore, le sel reste, et il s'accumule depuis des milliards d'années.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-29",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi fait-il plus froid en altitude alors qu'on se rapproche du Soleil ?",
+    "answer": "Parce que la distance au Soleil ne change quasiment rien à cette échelle. En altitude, l'air est moins dense, se détend et retient beaucoup moins la chaleur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-30",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi l'eau bout-elle plus vite en montagne ?",
+    "answer": "Parce que la pression atmosphérique y est plus faible. L'eau bout alors en dessous de 100 °C, ce qui rend d'ailleurs la cuisson des aliments plus lente.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-31",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "À quelle température l'eau bout-elle au niveau de la mer ?",
+    "answer": "À 100 °C.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-32",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que le zéro absolu ?",
+    "answer": "La température la plus basse possible, environ -273,15 °C, en dessous de laquelle on ne peut pas descendre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-33",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Combien d'éléments compte le tableau périodique ?",
+    "answer": "118 éléments reconnus à ce jour.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-34",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Qu'y a-t-il à l'intérieur d'un atome ?",
+    "answer": "Essentiellement du vide. Le noyau est minuscule par rapport à l'ensemble, et les électrons occupent un volume immense en comparaison.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-35",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "De quoi le diamant est-il composé ?",
+    "answer": "De carbone pur, le même élément que la mine de crayon. Seule l'organisation des atomes change.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-36",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Combien de chromosomes possède un être humain ?",
+    "answer": "46, soit 23 paires.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-37",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Quel groupe sanguin est appelé donneur universel ?",
+    "answer": "Le O négatif, pour les globules rouges.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-38",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Quelle est la température normale du corps humain ?",
+    "answer": "Environ 37 °C, avec des variations selon les personnes et le moment de la journée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-39",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le sang est-il rouge ?",
+    "answer": "À cause de l'hémoglobine, une molécule contenant du fer qui transporte l'oxygène et donne cette couleur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-40",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Combien de fois le cœur bat-il par jour, environ ?",
+    "answer": "Environ 100 000 fois.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-41",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Le cerveau ressent-il la douleur ?",
+    "answer": "Non, le tissu cérébral lui-même n'a pas de récepteurs de la douleur. C'est pourquoi certaines opérations du cerveau peuvent se faire sur un patient éveillé.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-42",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi a-t-on la chair de poule ?",
+    "answer": "De petits muscles redressent les poils. Chez les animaux à fourrure, cela emprisonne l'air ou impressionne un adversaire. Chez nous, c'est un réflexe devenu inutile.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-43",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi a-t-on le hoquet ?",
+    "answer": "Il s'agit d'une contraction involontaire du diaphragme suivie d'une fermeture brutale des cordes vocales. Sa cause précise et sa fonction éventuelle restent mal comprises.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-44",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi bâille-t-on ?",
+    "answer": "On ne le sait pas avec certitude. Plusieurs hypothèses coexistent, dont la régulation de la température du cerveau ; l'idée d'un simple manque d'oxygène est aujourd'hui écartée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-45",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le bâillement est-il contagieux ?",
+    "answer": "Le phénomène est bien réel et documenté, y compris entre espèces. On l'associe souvent aux mécanismes d'empathie et d'imitation, mais l'explication complète fait encore débat.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-46",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi fait-on « aïe » en se cognant le coude ?",
+    "answer": "On comprime le nerf ulnaire, qui passe juste sous la peau à cet endroit, sans protection musculaire. D'où la décharge le long de l'avant-bras.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-47",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi les chats retombent-ils sur leurs pattes ?",
+    "answer": "Grâce à un réflexe de redressement : l'oreille interne détecte la position, et le chat pivote l'avant puis l'arrière du corps en tournant sur lui-même.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-48",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que l'effet placebo ?",
+    "answer": "L'amélioration réelle de l'état d'un patient après un traitement sans principe actif, provoquée par l'attente d'un effet. C'est pour cela que les essais cliniques comparent toujours à un placebo.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-49",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Comment fonctionne un four à micro-ondes ?",
+    "answer": "Il émet des ondes qui font vibrer les molécules d'eau contenues dans les aliments. Ce sont ces frottements qui produisent la chaleur, de l'intérieur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-50",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi les bulles d'un soda piquent-elles la langue ?",
+    "answer": "Le gaz carbonique dissous forme un acide faible au contact de la salive. C'est cette légère acidité, plus que les bulles, qui provoque le picotement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-51",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Quelle est la vitesse du son dans l'air ?",
+    "answer": "Environ 340 mètres par seconde, soit à peu près 1 200 km/h.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-52",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "À quelle vitesse la Terre tourne-t-elle sur elle-même à l'équateur ?",
+    "answer": "Environ 1 670 km/h. On ne le sent pas car tout tourne avec elle, y compris l'atmosphère.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-53",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "À quelle vitesse la Terre se déplace-t-elle autour du Soleil ?",
+    "answer": "Environ 107 000 km/h.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-54",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Combien pèserait une personne de 60 kg sur la Lune ?",
+    "answer": "Environ 10 kg, la gravité lunaire étant environ six fois plus faible. Sa masse, elle, ne changerait pas.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-55",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Combien de temps la lumière de la Lune met-elle à nous parvenir ?",
+    "answer": "Un peu plus d'une seconde.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-56",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Quand on regarde les étoiles, voit-on des astres qui n'existent plus ?",
+    "answer": "C'est vrai en théorie, mais très exagéré en pratique : la plupart des étoiles visibles à l'œil nu sont assez proches et vivent assez longtemps pour exister encore aujourd'hui.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-57",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce qu'une année-lumière ?",
+    "answer": "Une distance, pas une durée : celle que parcourt la lumière en un an, soit environ 9 500 milliards de kilomètres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-58",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Quelle est l'étoile la plus proche de la Terre ?",
+    "answer": "Le Soleil. La plus proche ensuite est Proxima du Centaure, à un peu plus de quatre années-lumière.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-59",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Combien y a-t-il de planètes dans le système solaire ?",
+    "answer": "Huit, depuis que Pluton a été reclassée en planète naine en 2006.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-60",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Quelle est la plus grosse planète du système solaire ?",
+    "answer": "Jupiter.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-61",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Quelle est la planète la plus chaude du système solaire ?",
+    "answer": "Vénus, malgré sa plus grande distance au Soleil que Mercure. Son atmosphère très dense produit un effet de serre extrême.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-62",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce qu'un trou noir ?",
+    "answer": "Une région où la matière est si concentrée que rien ne peut s'en échapper, pas même la lumière.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-63",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Comment s'appelle notre galaxie ?",
+    "answer": "La Voie lactée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-64",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que le Big Bang ?",
+    "answer": "Le modèle décrivant l'expansion de l'Univers à partir d'un état extrêmement dense et chaud, il y a environ 13,8 milliards d'années. Ce n'est pas une explosion dans l'espace, mais une expansion de l'espace lui-même.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-65",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Quel âge a la Terre ?",
+    "answer": "Environ 4,5 milliards d'années.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-66",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce qu'une éclipse solaire ?",
+    "answer": "Le passage de la Lune entre le Soleil et la Terre, qui projette son ombre sur une partie de la surface terrestre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-67",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi le Soleil et la Lune paraissent-ils de la même taille dans le ciel ?",
+    "answer": "Coïncidence remarquable : le Soleil est environ 400 fois plus grand que la Lune, mais aussi environ 400 fois plus loin. C'est ce qui rend possibles les éclipses totales.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-68",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Que rejettent les plantes lors de la photosynthèse ?",
+    "answer": "De l'oxygène.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-69",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi une banane est-elle courbée ?",
+    "answer": "Le fruit pousse d'abord vers le bas, puis se redresse vers la lumière au cours de sa croissance. Cette remontée lui donne sa courbe.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-70",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "La tomate est-elle un fruit ou un légume ?",
+    "answer": "Un fruit au sens botanique, puisqu'elle contient les graines de la plante. Le mot « légume » relève de la cuisine, pas de la biologie.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-71",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le pain rassis durcit-il ?",
+    "answer": "Ce n'est pas seulement une perte d'eau : l'amidon se réorganise en refroidissant et rend la mie ferme. C'est pourquoi réchauffer un pain rassis le ramollit temporairement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-72",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi une pomme coupée brunit-elle ?",
+    "answer": "Au contact de l'air, une enzyme de la pomme provoque une oxydation. Un peu de jus de citron ralentit fortement la réaction.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-73",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le lait déborde-t-il quand il bout, contrairement à l'eau ?",
+    "answer": "Une pellicule de protéines et de matière grasse se forme en surface. La vapeur s'accumule dessous et soulève brutalement le tout.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-74",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que la réaction de Maillard ?",
+    "answer": "La réaction entre sucres et protéines sous l'effet de la chaleur, responsable du brunissement et des arômes d'une viande grillée, d'une croûte de pain ou d'un café torréfié.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-75",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi l'huile et l'eau ne se mélangent-elles pas ?",
+    "answer": "Leurs molécules ne s'attirent pas. Les molécules d'eau préfèrent nettement rester entre elles, ce qui exclut l'huile et forme deux couches séparées.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-76",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Que mesure l'échelle de Richter ?",
+    "answer": "La magnitude des séismes, c'est-à-dire l'énergie libérée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-77",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce qui provoque les tremblements de terre ?",
+    "answer": "Le mouvement des plaques tectoniques. Quand les contraintes accumulées se libèrent brutalement le long d'une faille, la roche casse et le sol vibre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-78",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce qu'un volcan crache exactement ?",
+    "answer": "De la roche fondue appelée magma sous terre et lave en surface, accompagnée de gaz et de cendres.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-79",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi la boussole pointe-t-elle vers le nord ?",
+    "answer": "Elle s'aligne sur le champ magnétique terrestre. Détail amusant : ce que nous appelons le pôle nord magnétique se comporte physiquement comme un pôle sud d'aimant.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-80",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que l'effet de serre ?",
+    "answer": "Le piégeage d'une partie de la chaleur par certains gaz de l'atmosphère. Sans lui, la Terre serait glaciale ; son renforcement par les activités humaines provoque le réchauffement climatique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-81",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "À quoi sert la couche d'ozone ?",
+    "answer": "Elle absorbe une grande partie des rayons ultraviolets du Soleil, qui seraient très nocifs pour les êtres vivants.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-82",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Comment se forment les nuages ?",
+    "answer": "La vapeur d'eau s'élève, refroidit en altitude et se condense en minuscules gouttelettes autour de poussières.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-83",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi un arc-en-ciel apparaît-il ?",
+    "answer": "Les gouttes de pluie décomposent la lumière blanche du Soleil en ses différentes couleurs, comme le ferait un prisme.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-84",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Deux flocons de neige peuvent-ils être identiques ?",
+    "answer": "C'est extraordinairement improbable pour les gros flocons, tant les combinaisons possibles sont nombreuses. Des cristaux très simples et très petits peuvent en revanche se ressembler énormément.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-85",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi la neige est-elle blanche alors que la glace est transparente ?",
+    "answer": "Un flocon est fait de multiples cristaux qui renvoient la lumière dans toutes les directions. Toutes les couleurs sont réfléchies de la même façon, ce qui donne du blanc.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-86",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "L'eau chaude peut-elle geler plus vite que l'eau froide ?",
+    "answer": "C'est ce qu'affirme l'effet Mpemba, observé dans certaines conditions mais qui reste débattu par les scientifiques, faute d'explication établie et de reproductibilité systématique.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-87",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Quel gaz respirons-nous majoritairement dans l'air ?",
+    "answer": "L'azote, qui représente environ 78% de l'air, contre environ 21% d'oxygène.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-88",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que le pH ?",
+    "answer": "Une mesure de l'acidité. En dessous de 7, c'est acide ; au-dessus, c'est basique ; 7 correspond au neutre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-89",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Quel acide se trouve dans notre estomac ?",
+    "answer": "De l'acide chlorhydrique, assez puissant pour attaquer certains métaux. La paroi est protégée par un mucus renouvelé en permanence.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-90",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce qu'un virus, et pourquoi les antibiotiques ne marchent-ils pas contre lui ?",
+    "answer": "Un virus n'est pas une cellule vivante autonome : il détourne nos cellules pour se reproduire. Les antibiotiques ciblent les bactéries, qui fonctionnent tout autrement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-91",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Comment fonctionne un vaccin ?",
+    "answer": "Il présente à l'organisme une version inoffensive d'un agent infectieux ou d'un de ses éléments. Le système immunitaire apprend à le reconnaître et réagit plus vite en cas de vraie infection.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-92",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Combien de bactéries vivent dans notre corps ?",
+    "answer": "Des dizaines de milliers de milliards, principalement dans l'intestin. Elles sont à peu près aussi nombreuses que nos propres cellules.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-93",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Quel est l'organe qui pompe le sang dans le corps ?",
+    "answer": "Le cœur.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-94",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi les empreintes digitales sont-elles uniques ?",
+    "answer": "Elles se forment pendant la vie fœtale sous l'effet de facteurs génétiques et de conditions locales aléatoires. Même de vrais jumeaux ont des empreintes différentes.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-95",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi devient-on rouge quand on est gêné ?",
+    "answer": "Une réaction du système nerveux dilate les petits vaisseaux du visage, ce qui augmente l'afflux de sang. C'est involontaire et impossible à contrôler.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-96",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi entend-on sa propre voix différemment sur un enregistrement ?",
+    "answer": "En parlant, on entend le son à la fois par l'air et par les vibrations des os du crâne, qui renforcent les graves. L'enregistrement ne restitue que la voie aérienne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-97",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi a-t-on le mal des transports ?",
+    "answer": "Parce que l'oreille interne perçoit du mouvement alors que les yeux, fixés sur l'intérieur du véhicule, n'en voient pas. Ce conflit d'informations déclenche la nausée.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-98",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi regarder la route devant soi limite-t-il le mal des transports ?",
+    "answer": "Parce que les yeux perçoivent alors le mouvement réel, ce qui réduit le désaccord avec l'oreille interne.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-99",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi les bulles remontent-elles dans un verre ?",
+    "answer": "Le gaz est bien moins dense que le liquide. Les bulles naissent souvent sur de minuscules aspérités du verre, qui servent de point de départ.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-100",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi le sucre fond-il dans l'eau chaude plus vite que dans l'eau froide ?",
+    "answer": "Parce que les molécules d'eau chaude bougent beaucoup plus vite et viennent séparer les molécules de sucre plus rapidement.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-101",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Quelle est la formule chimique du sel de table ?",
+    "answer": "NaCl, du sodium et du chlore.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-102",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que l'électricité statique ?",
+    "answer": "Une accumulation de charges électriques sur un objet, souvent par frottement. La décharge se produit quand ces charges trouvent enfin un chemin pour s'évacuer.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-103",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi est-on en sécurité dans une voiture pendant un orage ?",
+    "answer": "Grâce à la carrosserie métallique, qui conduit le courant autour de l'habitacle jusqu'au sol. Contrairement à une idée répandue, ce ne sont pas les pneus qui protègent.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-104",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi les oiseaux posés sur un fil électrique ne s'électrocutent-ils pas ?",
+    "answer": "Parce que le courant n'a aucune raison de passer par eux : leurs deux pattes touchent le même fil, sans différence de potentiel. Toucher deux fils à la fois serait fatal.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-105",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que la gravité selon Einstein ?",
+    "answer": "Non pas une force au sens classique, mais une déformation de l'espace et du temps par la masse. Les objets suivent simplement cette courbure.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-106",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Un objet lourd tombe-t-il plus vite qu'un objet léger ?",
+    "answer": "Non, dans le vide ils tombent exactement à la même vitesse. C'est la résistance de l'air qui fait la différence dans la vie courante.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-107",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Que signifie E = mc² ?",
+    "answer": "Que la masse et l'énergie sont deux formes d'une même chose, et qu'une très petite masse correspond à une énergie colossale.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-108",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce que la vitesse de la lumière a de particulier ?",
+    "answer": "C'est une limite indépassable dans l'Univers, et elle reste la même quelle que soit la vitesse de celui qui la mesure.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-109",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Qu'est-ce que l'ADN, en une phrase ?",
+    "answer": "Une très longue molécule contenant les instructions nécessaires au fonctionnement et au développement d'un être vivant.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-110",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Quelle part d'ADN partageons-nous avec un chimpanzé ?",
+    "answer": "Environ 98 à 99% selon la méthode de comparaison retenue.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-111",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "L'homme descend-il du singe ?",
+    "answer": "Pas exactement : l'homme et les grands singes actuels descendent d'un ancêtre commun, qui n'était ni l'un ni l'autre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-112",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Les dinosaures ont-ils vraiment tous disparu ?",
+    "answer": "Non : les oiseaux sont considérés par les scientifiques comme des dinosaures. Ce sont les dinosaures non aviaires qui ont disparu il y a environ 66 millions d'années.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-113",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Qu'est-ce qui a probablement causé l'extinction des dinosaures ?",
+    "answer": "L'impact d'un astéroïde il y a environ 66 millions d'années, dont le cratère se trouve au Mexique, associé à d'importants bouleversements climatiques.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-114",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "L'homme et le tyrannosaure ont-ils vécu à des époques très éloignées ?",
+    "answer": "Oui, énormément. Le tyrannosaure est même plus proche de nous dans le temps que du stégosaure, qui a vécu bien avant lui.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-115",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi les moustiques piquent-ils certaines personnes plus que d'autres ?",
+    "answer": "Ils repèrent le gaz carbonique expiré, la chaleur et certaines odeurs de la peau. Ces facteurs varient selon les individus, ce qui rend certains plus attirants.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-116",
+    "theme": "sciences",
+    "difficulty": "facile",
+    "question": "Pourquoi une piqûre de moustique gratte-t-elle ?",
+    "answer": "Le moustique injecte de la salive anticoagulante, et le corps réagit en libérant de l'histamine, responsable de la démangeaison.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-117",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Comment les abeilles fabriquent-elles le miel ?",
+    "answer": "Elles récoltent le nectar des fleurs, le transforment grâce à leurs enzymes et le déshydratent en ventilant la ruche, jusqu'à obtenir un produit très concentré en sucre.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-118",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Comment les abeilles communiquent-elles l'emplacement des fleurs ?",
+    "answer": "Par une danse en forme de huit, dont l'orientation indique la direction par rapport au Soleil et la durée renseigne sur la distance.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-119",
+    "theme": "sciences",
+    "difficulty": "moyen",
+    "question": "Pourquoi les poissons ne gèlent-ils pas dans un lac gelé ?",
+    "answer": "Parce que la glace flotte et isole l'eau du dessous, qui reste liquide. L'eau la plus dense, à environ 4 °C, se trouve au fond.",
+    "custom": false,
+    "lastSeenSession": null
+  },
+  {
+    "id": "sci-120",
+    "theme": "sciences",
+    "difficulty": "difficile",
+    "question": "Pourquoi n'entend-on aucun son dans l'espace ?",
+    "answer": "Parce que le son a besoin d'un milieu matériel pour se propager. Dans le vide, il n'y a quasiment aucune molécule pour transmettre la vibration.",
+    "custom": false,
+    "lastSeenSession": null
   }
 ]

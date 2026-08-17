@@ -53,7 +53,7 @@ Aucune. Le projet est volontairement sans backend et sans clé API — ne pas en
     ├── lib/
     │   ├── storage.ts + storage.test.ts     # repository localStorage typé
     │   └── selection.ts + selection.test.ts # moteur anti-répétition, fonctions pures (sans React)
-    └── data/questions.seed.json  # 656 questions sur 6 thèmes (voir détail ci-dessous)
+    └── data/questions.seed.json  # 896 questions sur 8 thèmes (voir détail ci-dessous)
 ```
 
 Contenu du seed (`questions.seed.json`), par thème :
@@ -66,6 +66,8 @@ Contenu du seed (`questions.seed.json`), par thème :
 | Départements | `departements` | 101 (couverture quasi complète : 96 métropolitains + 2A/2B + 5 DOM) |
 | Insolite | `insolite` | 110 |
 | Étymologie | `etymologie` | 95 (« pourquoi dit-on… », origine des mots — distinct des « expressions » qui portent sur le sens des locutions) |
+| Histoire de France | `histoire` | 120 (événements, dates, anecdotes — distinct de `personnalites` qui pose « qui était X ») |
+| Sciences | `sciences` | 120 (phénomènes du quotidien expliqués simplement, et démontage d'idées reçues) |
 
 ## Patterns clés
 
@@ -89,7 +91,9 @@ Fonctions pures, `rng` injectable pour des tests déterministes. Couvert par `se
 - Textes de l'UI en français
 - Zéro ressource chargée depuis un CDN (contrainte hors-ligne stricte)
 - Boutons d'action bas de 56px minimum, cibles tactiles ≥44px
-- Contenu du seed : uniquement des faits vérifiés, aucune étymologie inventée ; si une origine est débattue, la réponse le dit explicitement
+- Contenu du seed : uniquement des faits vérifiés, aucune étymologie inventée ; si une origine ou une explication est débattue, la réponse le dit explicitement
+- Ton du seed : accessible, façon « pour les nuls ». Une réponse peut corriger une idée reçue (« non, c'est un mythe… ») à condition de rester exacte. Réponses de 1 à 3 phrases, lisibles à voix haute
+- Ajouter un thème : une seule modification dans `types.ts` (`Theme`, `THEMES`, `THEME_LABELS`) suffit, `FilterBar` s'adapte automatiquement. Vérifier ensuite le rendu des chips sur 390px de large
 
 ## Déploiement
 

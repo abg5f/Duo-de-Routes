@@ -1,4 +1,12 @@
-export type Theme = 'acronymes' | 'personnalites' | 'expressions' | 'departements' | 'insolite' | 'etymologie';
+export type Theme =
+  | 'acronymes'
+  | 'personnalites'
+  | 'expressions'
+  | 'departements'
+  | 'insolite'
+  | 'etymologie'
+  | 'histoire'
+  | 'sciences';
 export type Difficulty = 'facile' | 'moyen' | 'difficile';
 
 export type Question = {
@@ -29,6 +37,8 @@ export const THEMES: Theme[] = [
   'departements',
   'insolite',
   'etymologie',
+  'histoire',
+  'sciences',
 ];
 export const DIFFICULTIES: Difficulty[] = ['facile', 'moyen', 'difficile'];
 
@@ -39,6 +49,8 @@ export const THEME_LABELS: Record<Theme, string> = {
   departements: 'Départements',
   insolite: 'Insolite',
   etymologie: 'Étymologie',
+  histoire: 'Histoire de France',
+  sciences: 'Sciences',
 };
 
 export const DIFFICULTY_LABELS: Record<Difficulty, string> = {
