@@ -1,0 +1,9 @@
+{
+  "godNodes": [
+    { "id": "QuizGame.tsx", "degree": 11, "reason": "Orchestrateur central : importe storage, selection, seed, tous les sous-composants du quiz et types." },
+    { "id": "types.ts", "degree": 10, "reason": "Source de vérité unique des types (Theme, Question, Filters, QuizState) — presque tous les modules en dépendent." },
+    { "id": "storage.ts", "degree": 4, "reason": "Seul point d'accès à localStorage, persiste QuizState, fusionne le seed." },
+    { "id": "selection.ts", "degree": 4, "reason": "Implémente le moteur anti-répétition, cœur logique du quiz." },
+    { "id": "App.tsx", "degree": 3, "reason": "Routeur hub <-> jeu, point de montage et de câblage du registry." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "communities": [
+    {
+      "id": 1,
+      "label": "Cœur du quiz (UI + orchestration)",
+      "members": ["QuizGame.tsx", "FlipCard.tsx", "FilterBar.tsx", "AddQuestionForm.tsx", "types.ts", "flip-fix"]
+    },
+    {
+      "id": 2,
+      "label": "Couche données (persistance + sélection)",
+      "members": ["storage.ts", "storage.test.ts", "selection.ts", "selection.test.ts", "questions.seed.json", "QuizState", "anti-repetition"]
+    },
+    {
+      "id": 3,
+      "label": "Coquille applicative (shell / navigation)",
+      "members": ["main.tsx", "App.tsx", "registry.ts", "Screen.tsx", "ActionButton.tsx"]
+    },
+    {
+      "id": 4,
+      "label": "Design & thèmes",
+      "members": ["Theme", "index.css"]
+    }
+  ]
+}

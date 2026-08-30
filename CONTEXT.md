@@ -1,10 +1,11 @@
 # Context — Duo de Routes
 
-> Dernière mise à jour : 2026-08-15
+> Dernière mise à jour : 2026-08-30
 
 ## État actuel
 Mini-jeu quiz jouable de bout en bout, dans une PWA installable et 100% hors ligne. Le seed contient désormais **896 questions sur 8 thèmes** : acronymes, personnalités, expressions, départements, insolite, étymologie, histoire de France, sciences.
 Build (`tsc -b` + `vite build`) et tests (`vitest`, 12/12) passent. Testé en navigateur à 390x844 sur le build de production : hub → quiz → retournement de carte → filtres → ajout de question persistant → retour au hub — aucune erreur console. Avec 8 thèmes, la barre de filtres occupe 3 lignes (148px) et la carte conserve 460px de haut : ni scroll horizontal ni scroll vertical, chips tous à 44px, boutons d'action à 56px.
+Bug de superposition des faces de carte corrigé (PR #1 sur GitHub, mergée puis pullée en local le 2026-08-30) : voir décision « Fix carte flip » ci-dessous.
 
 ## Décisions prises
 - **Stack** : Vite + React 19 + TypeScript + Tailwind v4 + vite-plugin-pwa. Persistance `localStorage` encapsulée dans un repository typé (`src/lib/storage.ts`), remplaçable par IndexedDB/SQLite sans toucher aux composants.
@@ -18,11 +19,11 @@ Build (`tsc -b` + `vite build`) et tests (`vitest`, 12/12) passent. Testé en na
 - **Sécurité** : une chaîne de connexion PostgreSQL Neon (avec identifiants en clair) a été collée par erreur dans le chat pendant la session — ignorée, non stockée, non utilisée. Elle contredit le choix explicite « sans backend / localStorage uniquement ». À régénérer côté Neon si elle a fuité par erreur.
 - **Nom du projet** : « La Nappe » renommé en « Duo de Routes » à la demande de l'utilisateur. Renommage appliqué partout : `package.json` (`name`), manifest PWA (`name`/`short_name`/`description`), `<title>`, en-tête du hub (`App.tsx`), clé `localStorage` (`duo-de-routes:quiz-state:v1` — l'ancienne clé `la-nappe:quiz-state:v1` est abandonnée, sans conséquence puisqu'aucun utilisateur réel n'a encore ouvert l'app), `CLAUDE.md`, `CONTEXT.md`, noms des serveurs dans `.claude/launch.json`. Le design (fond sombre, accent ambre, icônes) n'a pas été retouché : les choix restent justifiés indépendamment du nom (cf. section Design ci-dessus).
 - **Dépôt** : créé par l'utilisateur sur GitHub à [abg5f/Duo-de-Routes](https://github.com/abg5f/Duo-de-Routes). Ce dossier n'était pas suivi par le monorepo parent (`0_Claude Code`) — un dépôt Git indépendant a été initialisé directement dans `30_minijeuxvoiture/`, avec son propre `.gitignore` (node_modules, dist, etc.), commité et poussé sur `main`.
+- **Fix carte flip (PR #1, 2026-08-30)** : la carte de `FlipCard.tsx` s'effondrait à une hauteur nulle (le `h-full` interne ne résolvait pas contre un parent `flex-1`), et `backface-visibility: hidden` n'était pas respecté sur certains moteurs de rendu mobiles — le texte de la question restait visible en miroir sous la réponse. Corrigé en basculant opacité/visibilité à mi-rotation (200ms) plutôt que de dépendre de `backface-visibility`, en passant le conteneur en `absolute inset-0`, et en sortant la révélation de la carte (qui n'est plus interactive) vers un bouton dédié « Réponse » / « Masquer la réponse » (44px) sous la carte, plus découvrable que le tap. `prefers-reduced-motion` neutralise aussi `transition-delay` pour garder la bascule instantanée.
 
 ## En cours / TODOs
 - [ ] Tester l'installation réelle sur écran d'accueil iOS/Android (testé ici uniquement en navigateur desktop redimensionné)
 - [ ] Décider si un futur mini-jeu justifie d'enrichir `shared/` au-delà de `components/` et `lib/`
-- [ ] Lancer `/graphify` une fois le code jugé stable
 - [ ] Vérifier le hors-ligne réel (coupure réseau matérielle) — vérifié ici par inspection du cache Service Worker et non par une coupure réseau effective, faute d'outil de throttling dans cette session
 - [ ] Faire relire le contenu du seed (896 questions) par une source tierce si le projet est diffusé au-delà d'un usage personnel
 - [ ] Surveiller la barre de filtres si un 9e thème est ajouté : à 8 thèmes elle occupe déjà 3 lignes sur un écran de 390px. Au-delà, prévoir un repliement ou un sélecteur dédié
@@ -43,6 +44,14 @@ Décisions mineures prises sans repasser par l'utilisateur (jugées dans le pér
 - [src/games/quiz/types.ts](src/games/quiz/types.ts) — `Theme` (8 valeurs), source unique pour les filtres : ajouter un thème ici suffit, `FilterBar` suit
 - [src/data/questions.seed.json](src/data/questions.seed.json) — 896 questions, contenu à faire relire par l'utilisateur (faits vérifiés mais non relus par une source tierce)
 - [src/App.tsx](src/App.tsx) — navigation hub ↔ jeu, gestion du bouton retour
+- [src/games/quiz/FlipCard.tsx](src/games/quiz/FlipCard.tsx) — carte de retournement, retouchée le 2026-08-30 pour corriger la superposition des faces (cf. décisions)
+
+## Graphe de connaissances
+> Mis à jour le 2026-08-30
+
+God nodes (concepts centraux) : `QuizGame.tsx` (orchestrateur), `types.ts` (source de vérité des types), `storage.ts` (persistance), `selection.ts` (moteur anti-répétition), `App.tsx` (routeur hub ↔ jeu).
+Communautés détectées : 4 (cœur du quiz, couche données, coquille applicative, design & thèmes).
+Pour explorer : `graphify query "<question>"` / `graphify explain "<concept>"`
 
 ---
 _Mis à jour via `/save`. Lire ce fichier en début de session pour reprendre le contexte._
