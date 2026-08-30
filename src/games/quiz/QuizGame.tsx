@@ -85,7 +85,17 @@ export default function QuizGame({ onQuitter }: QuizGameProps) {
             {result.lowStock && (
               <p className="text-center text-sm text-fg-muted">Stock bientôt épuisé sur ces filtres.</p>
             )}
-            <FlipCard question={result.current} flipped={flipped} onToggle={() => setFlipped((f) => !f)} />
+            <FlipCard question={result.current} flipped={flipped} />
+            <button
+              type="button"
+              onClick={() => setFlipped((f) => !f)}
+              aria-pressed={flipped}
+              className="mx-auto flex min-h-11 items-center justify-center rounded-full border border-border
+                bg-surface px-6 text-sm font-medium text-fg transition-[background-color,transform]
+                duration-150 ease-out active:scale-[0.97] active:bg-surface-active"
+            >
+              {flipped ? 'Masquer la réponse' : 'Réponse'}
+            </button>
           </>
         )}
 
